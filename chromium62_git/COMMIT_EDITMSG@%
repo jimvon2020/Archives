@@ -1,0 +1,24 @@
+【Bug Fix】: PD1000[B181101-253]解决视频黑白名单配置时机迟了的问题
+
+【修改原因】: 之前把updateVideoSettings函数的调用时机从didFirstVisuallyNonEmptyPaint中移入didFinishNavigation中，在某些机型上配置时机正确，但是在某些机型上时机还是晚了
+【解决方法】: 再次提前updateVideoSettings的调用时机，放入didStartLoading中
+【影响模块】: media模块
+【测试建议】: 测试视频infoloader白名单配置是否生效，测试其它视频配置，如player类型, viewStyle类型, autoPlay, 置顶悬浮、广告导流、视频全屏、断点续播等黑白名单是否生效，另外，需要测试多个机型，看是否一致
+【其他】: 无
+    
+Change-Id: I5a78ee08571cac0caaec0e776e974d08020b0461
+
+# 请为您的变更输入提交说明。以 '#' 开始的行将被忽略，而一个空的提交
+# 说明将会终止提交。
+# 位于分支 vivo_webview_trunk
+# 您的分支领先 'origin/vivo_webview_trunk' 共 1 个提交。
+#   （使用 "git push" 来发布您的本地提交）
+#
+# 要提交的变更：
+#	修改：     src/android_webview/java/src/org/chromium/android_webview/AwWebContentsObserver.java
+#
+# 未跟踪的文件:
+#	0001-Feature-exoplayer.patch
+#	0001-fix-video-abnormal-firstFrameTime-problem.patch
+#	java_v5_core/v5_sdk/
+#

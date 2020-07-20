@@ -1,0 +1,9 @@
+【Bug Fix】: 【安全漏洞】Issue1048005:rtp_frame_reference_finder_fuzzer:Badparametersto--sanitizer-annotate-contiguous-containerinwebrtc::video_coding::RtpFrameObject::~RtpFrameObject
+
+【修改原因】: https://bugs.chromium.org/p/chromium/issues/detail?id=1048005&can=1&colspec=ID%20Pri%20M%20Stars%20ReleaseBlock%20Component%20Status%20Owner%20Summary%20OS%20Modified%20Security_Severity%20Opened%20CVE&num=100&start=0&q=Status=%22Verified,Fixed%22%20opened%3E2017/11/30%20OS=Android,Chrome,all%20Label:Security_Severity-Medium,Security_Severity-High,Security_Severity-Critical
+【解决方法】: https://webrtc.googlesource.com/src/+/1a358831cca7551d24cae6d6c0215d16029a6ec7%5E%21/#F0
+【影响模块】: media模块
+【测试建议】: 回归bug
+【其他】: 无
+
+Change-Id: I00021c27e5d424fa5e4afb1b4898804ecfc08749

@@ -1,0 +1,466 @@
+dc9daf23b2a5d15feb80c4f72425f9cc62a379dd b9014e06d844d65912cec889e623a58f79ac2059 wujinfeng <wujinfeng@bbktel.com> 1567045851 +0800	checkout: moving from vivo_webview_release_2.15.2 to vivo_webview_apk_release_1.0.0.0
+b9014e06d844d65912cec889e623a58f79ac2059 dc2578e8200194eecfc266509cc973de411554be wujinfeng <wujinfeng@bbktel.com> 1567067232 +0800	pull: Fast-forward
+b28007aca0042a6dc16c13fb6929b0aa18caf59b 45fc222e987591a1e62915ae72b3ca82e3108490 wujinfeng <wujinfeng@bbktel.com> 1568967573 +0800	commit (amend): 【Bug Fix】: PD123456:[VR190802-083]:把video元素全屏按钮状态同步到定制视频界面,并且部分解决视频全屏接口应用不实现的问题
+45fc222e987591a1e62915ae72b3ca82e3108490 e0f5b9fd9992f5b6b723c620864c9523c5085dda wujinfeng <wujinfeng@bbktel.com> 1568968116 +0800	commit (amend): 【Bug Fix】: PD123456:[VR190802-083]:把video元素全屏按钮状态同步到定制视频界面,并且部分解决视频全屏接口应用不实现的问题
+e0f5b9fd9992f5b6b723c620864c9523c5085dda 96b1007f262f5f93754bdcc2737d4e3501bc2f26 wujinfeng <wujinfeng@bbktel.com> 1568972321 +0800	checkout: moving from vivo_webview_apk_release_1.0.0.0 to vivo_webview_trunk
+96b1007f262f5f93754bdcc2737d4e3501bc2f26 83601264827b76bfebd676fc5580a76a8251c732 wujinfeng <wujinfeng@bbktel.com> 1568972355 +0800	pull --rebase: checkout 83601264827b76bfebd676fc5580a76a8251c732
+83601264827b76bfebd676fc5580a76a8251c732 83601264827b76bfebd676fc5580a76a8251c732 wujinfeng <wujinfeng@bbktel.com> 1568972355 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+83601264827b76bfebd676fc5580a76a8251c732 0ab6c59cd1381dc818a36d2bce604e43f6f376d6 wujinfeng <wujinfeng@bbktel.com> 1568972379 +0800	reset: moving to 0ab6c59cd1381dc818a36d2bce604e43f6f376d6
+0ab6c59cd1381dc818a36d2bce604e43f6f376d6 0d836f6f7a9f981a2dec7db7461f2e788cf86062 wujinfeng <wujinfeng@bbktel.com> 1570520261 +0800	commit: 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+0d836f6f7a9f981a2dec7db7461f2e788cf86062 90f6c1e6121e2d53bb9f8c56268d63befee8bcec wujinfeng <wujinfeng@bbktel.com> 1570520269 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+90f6c1e6121e2d53bb9f8c56268d63befee8bcec ddb8531190c07fe302bbcf648a0f3620fceee6ec wujinfeng <wujinfeng@bbktel.com> 1570535042 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+ddb8531190c07fe302bbcf648a0f3620fceee6ec 649fa8fcf60d1dc8f41f3a377d9ed0b00b4cfe17 wujinfeng <wujinfeng@bbktel.com> 1570537627 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+649fa8fcf60d1dc8f41f3a377d9ed0b00b4cfe17 6aa2805593f2836506fba87d1f4d1964b5956669 wujinfeng <wujinfeng@bbktel.com> 1570537683 +0800	commit: add logs for video hot words search feature
+6aa2805593f2836506fba87d1f4d1964b5956669 cab07cf3d5339f6841c7073c5d408014aeab5306 wujinfeng <wujinfeng@bbktel.com> 1570538767 +0800	pull --rebase: checkout cab07cf3d5339f6841c7073c5d408014aeab5306
+cab07cf3d5339f6841c7073c5d408014aeab5306 a2853041f89fe5236f441dde38142e64af79113b wujinfeng <wujinfeng@bbktel.com> 1570538890 +0800	rebase: 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+a2853041f89fe5236f441dde38142e64af79113b 9fd2a466d3b57c103f496de582d9d00e0471650e wujinfeng <wujinfeng@bbktel.com> 1570538890 +0800	rebase: add logs for video hot words search feature
+9fd2a466d3b57c103f496de582d9d00e0471650e 9fd2a466d3b57c103f496de582d9d00e0471650e wujinfeng <wujinfeng@bbktel.com> 1570538892 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+9fd2a466d3b57c103f496de582d9d00e0471650e a2853041f89fe5236f441dde38142e64af79113b wujinfeng <wujinfeng@bbktel.com> 1570590642 +0800	reset: moving to a2853041f89fe5236f441dde38142e64af79113b
+a2853041f89fe5236f441dde38142e64af79113b 3951ab01fc8067c6436aa3f8ef9ab4dc640497e3 wujinfeng <wujinfeng@bbktel.com> 1570590668 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+3951ab01fc8067c6436aa3f8ef9ab4dc640497e3 7065403768808832e843cc9699481ee55b95c238 wujinfeng <wujinfeng@bbktel.com> 1570594029 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+7065403768808832e843cc9699481ee55b95c238 50a7b4419c9d4112321d4b01ce853cdca8265178 wujinfeng <wujinfeng@bbktel.com> 1570594058 +0800	am: add logs for video hot words search feature
+50a7b4419c9d4112321d4b01ce853cdca8265178 5baf31bf49e5ab36cc35e7e6a61ab54d42363ebf wujinfeng <wujinfeng@bbktel.com> 1570594259 +0800	commit (amend): add logs for video hot words search feature
+5baf31bf49e5ab36cc35e7e6a61ab54d42363ebf 7065403768808832e843cc9699481ee55b95c238 wujinfeng <wujinfeng@bbktel.com> 1570602769 +0800	reset: moving to 7065403768808832e843cc9699481ee55b95c238
+7065403768808832e843cc9699481ee55b95c238 67855af287ce9d9af7a936209c03f1188c940393 wujinfeng <wujinfeng@bbktel.com> 1570603346 +0800	commit: 【Bug Fix】: sfew
+67855af287ce9d9af7a936209c03f1188c940393 7065403768808832e843cc9699481ee55b95c238 wujinfeng <wujinfeng@bbktel.com> 1570603356 +0800	reset: moving to 7065403768808832e843cc9699481ee55b95c238
+7065403768808832e843cc9699481ee55b95c238 9332b71dd3463cc38a95e5e466687167c0706791 wujinfeng <wujinfeng@bbktel.com> 1570603397 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+9332b71dd3463cc38a95e5e466687167c0706791 572391d757506b77e5dcf1fb35fe04bad608ea91 wujinfeng <wujinfeng@bbktel.com> 1570603476 +0800	am: add logs for video hot words search feature
+572391d757506b77e5dcf1fb35fe04bad608ea91 4de690bb0cf94e18815648861a746d9dd3ce2b98 wujinfeng <wujinfeng@bbktel.com> 1570604198 +0800	commit (amend): add logs for video hot words search feature
+4de690bb0cf94e18815648861a746d9dd3ce2b98 a1c1226d3a3bc52f747ff7e5d200c7c67d416021 wujinfeng <wujinfeng@bbktel.com> 1570604247 +0800	commit (amend): add logs for video hot words search feature
+a1c1226d3a3bc52f747ff7e5d200c7c67d416021 9332b71dd3463cc38a95e5e466687167c0706791 wujinfeng <wujinfeng@bbktel.com> 1570604299 +0800	reset: moving to 9332b71dd3463cc38a95e5e466687167c0706791
+9332b71dd3463cc38a95e5e466687167c0706791 260c396edd1df6fe903c77c2b18f7d39f477d90d wujinfeng <wujinfeng@bbktel.com> 1570604346 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+260c396edd1df6fe903c77c2b18f7d39f477d90d 0606841623b63faff8130dbd453995b17f4c8773 wujinfeng <wujinfeng@bbktel.com> 1570604787 +0800	am: add logs for video hot words search feature
+0606841623b63faff8130dbd453995b17f4c8773 260c396edd1df6fe903c77c2b18f7d39f477d90d wujinfeng <wujinfeng@bbktel.com> 1570604916 +0800	reset: moving to 260c396edd1df6fe903c77c2b18f7d39f477d90d
+260c396edd1df6fe903c77c2b18f7d39f477d90d 9ae8bc90aec2da5065d8d42b20cddbff7717f0ad wujinfeng <wujinfeng@bbktel.com> 1570605075 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+9ae8bc90aec2da5065d8d42b20cddbff7717f0ad e166fcaacbe5592c1448b5db9c2563b94007e79b wujinfeng <wujinfeng@bbktel.com> 1570605267 +0800	am: add logs for video hot words search feature
+e166fcaacbe5592c1448b5db9c2563b94007e79b a82ba798f3b2cca513fc7ec3858b5d52543b6f0d wujinfeng <wujinfeng@bbktel.com> 1570605840 +0800	commit (amend): add logs for video hot words search feature
+a82ba798f3b2cca513fc7ec3858b5d52543b6f0d 9ae8bc90aec2da5065d8d42b20cddbff7717f0ad wujinfeng <wujinfeng@bbktel.com> 1570608924 +0800	reset: moving to 9ae8bc90aec2da5065d8d42b20cddbff7717f0ad
+9ae8bc90aec2da5065d8d42b20cddbff7717f0ad fb539790a1ca4ef8a9ead5eee51f8028bb1154f9 wujinfeng <wujinfeng@bbktel.com> 1570618905 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+fb539790a1ca4ef8a9ead5eee51f8028bb1154f9 cc5c204206d54344f147eb0b70b81a3de5f448a9 wujinfeng <wujinfeng@bbktel.com> 1570670821 +0800	commit: modify hot words word-searching and url-loading requests
+cc5c204206d54344f147eb0b70b81a3de5f448a9 ffe50c45b931639143b3bc177c6c69e156b6bfe2 wujinfeng <wujinfeng@bbktel.com> 1570671892 +0800	am: add logs for video hot words search feature
+ffe50c45b931639143b3bc177c6c69e156b6bfe2 cc5c204206d54344f147eb0b70b81a3de5f448a9 wujinfeng <wujinfeng@bbktel.com> 1570672425 +0800	reset: moving to cc5c204206d54344f147eb0b70b81a3de5f448a9
+cc5c204206d54344f147eb0b70b81a3de5f448a9 e7c9d755fb0ad98dc115632d4036e09ada880ab5 wujinfeng <wujinfeng@bbktel.com> 1570678695 +0800	commit: modify handleWebSearch interface
+e7c9d755fb0ad98dc115632d4036e09ada880ab5 3d5c5f5c5c67bfc386f51389d79effe64512d24c wujinfeng <wujinfeng@bbktel.com> 1570690370 +0800	commit: add data report logic to video hot words feature
+3d5c5f5c5c67bfc386f51389d79effe64512d24c e7c9d755fb0ad98dc115632d4036e09ada880ab5 wujinfeng <wujinfeng@bbktel.com> 1570690510 +0800	reset: moving to e7c9d755fb0ad98dc115632d4036e09ada880ab5
+e7c9d755fb0ad98dc115632d4036e09ada880ab5 6835c20da0ff94b9ca43566c3763743c4711e1d7 wujinfeng <wujinfeng@bbktel.com> 1570690585 +0800	commit (amend): modify handleWebSearch interface for video hot words search feature
+6835c20da0ff94b9ca43566c3763743c4711e1d7 cc5c204206d54344f147eb0b70b81a3de5f448a9 wujinfeng <wujinfeng@bbktel.com> 1570690620 +0800	reset: moving to cc5c204206d54344f147eb0b70b81a3de5f448a9
+cc5c204206d54344f147eb0b70b81a3de5f448a9 fb539790a1ca4ef8a9ead5eee51f8028bb1154f9 wujinfeng <wujinfeng@bbktel.com> 1570690972 +0800	reset: moving to fb539790a1ca4ef8a9ead5eee51f8028bb1154f9
+fb539790a1ca4ef8a9ead5eee51f8028bb1154f9 758d04a58ad67e18497501a76bfb3c78cec2a79e wujinfeng <wujinfeng@bbktel.com> 1570691062 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+758d04a58ad67e18497501a76bfb3c78cec2a79e 7512400293426d92167fb7c309a18e19f6b113bd wujinfeng <wujinfeng@bbktel.com> 1570691122 +0800	am: add data report logic to video hot words feature
+7512400293426d92167fb7c309a18e19f6b113bd 758d04a58ad67e18497501a76bfb3c78cec2a79e wujinfeng <wujinfeng@bbktel.com> 1570691138 +0800	reset: moving to 758d04a58ad67e18497501a76bfb3c78cec2a79e
+758d04a58ad67e18497501a76bfb3c78cec2a79e 0e955b9718cb846d0a2a861e24f9f6f6ff84fd26 wujinfeng <wujinfeng@bbktel.com> 1570691198 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+0e955b9718cb846d0a2a861e24f9f6f6ff84fd26 7b9a6587a2308f4d39a3578a602c981e8ed6be38 wujinfeng <wujinfeng@bbktel.com> 1570691668 +0800	am: add logs for video hot words search feature
+7b9a6587a2308f4d39a3578a602c981e8ed6be38 0e955b9718cb846d0a2a861e24f9f6f6ff84fd26 wujinfeng <wujinfeng@bbktel.com> 1570692215 +0800	reset: moving to 0e955b9718cb846d0a2a861e24f9f6f6ff84fd26
+0e955b9718cb846d0a2a861e24f9f6f6ff84fd26 0500e18fed16be30c52f3f6f30590d503fdd7736 wujinfeng <wujinfeng@bbktel.com> 1570694021 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+0500e18fed16be30c52f3f6f30590d503fdd7736 d2ae9b9d6bc9b7649a714bac3bb9a18060d3cc2d wujinfeng <wujinfeng@bbktel.com> 1570694068 +0800	am: add logs for video hot words search feature
+d2ae9b9d6bc9b7649a714bac3bb9a18060d3cc2d 0500e18fed16be30c52f3f6f30590d503fdd7736 wujinfeng <wujinfeng@bbktel.com> 1570699072 +0800	reset: moving to 0500e18fed16be30c52f3f6f30590d503fdd7736
+0500e18fed16be30c52f3f6f30590d503fdd7736 18c481876796482aaefba56640114264301ca5c3 wujinfeng <wujinfeng@bbktel.com> 1570706441 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+18c481876796482aaefba56640114264301ca5c3 d3912595757e355e7d19f9435063bc6cd0487bc3 wujinfeng <wujinfeng@bbktel.com> 1570706611 +0800	am: add logs for video hot words search feature
+d3912595757e355e7d19f9435063bc6cd0487bc3 18c481876796482aaefba56640114264301ca5c3 wujinfeng <wujinfeng@bbktel.com> 1570708805 +0800	reset: moving to 18c48187679
+18c481876796482aaefba56640114264301ca5c3 361826aeede01a31b253e113448aadb9fa4dc986 wujinfeng <wujinfeng@bbktel.com> 1570708946 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+361826aeede01a31b253e113448aadb9fa4dc986 6b03e0c37bb3e89e6bca795192c8eb97cb8faf13 wujinfeng <wujinfeng@bbktel.com> 1570708990 +0800	am: add logs for video hot words search feature
+6b03e0c37bb3e89e6bca795192c8eb97cb8faf13 361826aeede01a31b253e113448aadb9fa4dc986 wujinfeng <wujinfeng@bbktel.com> 1570709612 +0800	reset: moving to 361826aeede01a31b253e113448aadb9fa4dc986
+361826aeede01a31b253e113448aadb9fa4dc986 0ea434d68218ae7493529a549342fba4150c4a46 wujinfeng <wujinfeng@bbktel.com> 1570709939 +0800	pull --rebase: checkout 0ea434d68218ae7493529a549342fba4150c4a46
+0ea434d68218ae7493529a549342fba4150c4a46 7ccdbffb1066d6a1ecc4309bc603a737305088df wujinfeng <wujinfeng@bbktel.com> 1570709939 +0800	pull --rebase: 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+7ccdbffb1066d6a1ecc4309bc603a737305088df 7ccdbffb1066d6a1ecc4309bc603a737305088df wujinfeng <wujinfeng@bbktel.com> 1570709941 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+7ccdbffb1066d6a1ecc4309bc603a737305088df 49f14f0c6303f5a4ad79c669be06e03fc9ad60be wujinfeng <wujinfeng@bbktel.com> 1570759957 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+49f14f0c6303f5a4ad79c669be06e03fc9ad60be 964450e80f368ba4e621fb1e13248cc0b46aea90 wujinfeng <wujinfeng@bbktel.com> 1570760042 +0800	am: add logs for video hot words search feature
+964450e80f368ba4e621fb1e13248cc0b46aea90 49f14f0c6303f5a4ad79c669be06e03fc9ad60be wujinfeng <wujinfeng@bbktel.com> 1570796897 +0800	reset: moving to 49f14f0c6303f5a4ad79c669be06e03fc9ad60be
+49f14f0c6303f5a4ad79c669be06e03fc9ad60be 3386c55bbc1fb022443f77ff44e4034ab1b62e61 wujinfeng <wujinfeng@bbktel.com> 1570798123 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+3386c55bbc1fb022443f77ff44e4034ab1b62e61 541b77641abc87313792ccd855ec37e7861c2cf7 wujinfeng <wujinfeng@bbktel.com> 1570858578 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+541b77641abc87313792ccd855ec37e7861c2cf7 4152dbbee7ff17a9f901acd6f688c5d7318a8a6b wujinfeng <wujinfeng@bbktel.com> 1570866589 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+4152dbbee7ff17a9f901acd6f688c5d7318a8a6b b0ec1f13e540a55b1b8f9549480fddbad581867e wujinfeng <wujinfeng@bbktel.com> 1570866775 +0800	am: add logs for video hot words search feature
+b0ec1f13e540a55b1b8f9549480fddbad581867e 4152dbbee7ff17a9f901acd6f688c5d7318a8a6b wujinfeng <wujinfeng@bbktel.com> 1570866806 +0800	reset: moving to 4152dbbee7ff17a9f901acd6f688c5d7318a8a6b
+4152dbbee7ff17a9f901acd6f688c5d7318a8a6b 35ee5805ebd7198cb8fd694a519fa523de7aa0cb wujinfeng <wujinfeng@bbktel.com> 1570878465 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+35ee5805ebd7198cb8fd694a519fa523de7aa0cb 84111e375fb7fab3216b2a725ef7fab8411422cf wujinfeng <wujinfeng@bbktel.com> 1570950746 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+84111e375fb7fab3216b2a725ef7fab8411422cf 5aeb4fe4f8f5158bd6996868a12692a2f8c60dc1 wujinfeng <wujinfeng@bbktel.com> 1570951426 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+5aeb4fe4f8f5158bd6996868a12692a2f8c60dc1 404059edb6d9250a13d26e0b4c8d68d783e9923e wujinfeng <wujinfeng@bbktel.com> 1570951835 +0800	am: add logs for video hot words search feature
+404059edb6d9250a13d26e0b4c8d68d783e9923e 5aeb4fe4f8f5158bd6996868a12692a2f8c60dc1 wujinfeng <wujinfeng@bbktel.com> 1571018491 +0800	reset: moving to 5aeb4fe4f8f5158bd6996868a12692a2f8c60dc1
+5aeb4fe4f8f5158bd6996868a12692a2f8c60dc1 82970ad00545bb3e3c9a504cd48ca0554777762e wujinfeng <wujinfeng@bbktel.com> 1571024101 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+82970ad00545bb3e3c9a504cd48ca0554777762e 0fe3ebd38505781d8b874095ec213df184f46c0a wujinfeng <wujinfeng@bbktel.com> 1571024119 +0800	pull --rebase: checkout 0fe3ebd38505781d8b874095ec213df184f46c0a
+0fe3ebd38505781d8b874095ec213df184f46c0a 01d1234bd83720f2f7709656395cf9fc229d5e6a wujinfeng <wujinfeng@bbktel.com> 1571024119 +0800	pull --rebase: 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+01d1234bd83720f2f7709656395cf9fc229d5e6a 01d1234bd83720f2f7709656395cf9fc229d5e6a wujinfeng <wujinfeng@bbktel.com> 1571024121 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+01d1234bd83720f2f7709656395cf9fc229d5e6a 2ce7dd9eb8e8b18896414f33b9c1a46fadda624f wujinfeng <wujinfeng@bbktel.com> 1571036760 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+2ce7dd9eb8e8b18896414f33b9c1a46fadda624f d260b8ce3dae300ef9343dc0d546d2e360eacef9 wujinfeng <wujinfeng@bbktel.com> 1571037151 +0800	am: add logs for video hot words search feature
+d260b8ce3dae300ef9343dc0d546d2e360eacef9 2ce7dd9eb8e8b18896414f33b9c1a46fadda624f wujinfeng <wujinfeng@bbktel.com> 1571114715 +0800	checkout: moving from vivo_webview_trunk to 2ce7dd9eb8e8b18896414f33b9c1a46fadda624f
+2ce7dd9eb8e8b18896414f33b9c1a46fadda624f d260b8ce3dae300ef9343dc0d546d2e360eacef9 wujinfeng <wujinfeng@bbktel.com> 1571114763 +0800	checkout: moving from 2ce7dd9eb8e8b18896414f33b9c1a46fadda624f to vivo_webview_trunk
+d260b8ce3dae300ef9343dc0d546d2e360eacef9 2ce7dd9eb8e8b18896414f33b9c1a46fadda624f wujinfeng <wujinfeng@bbktel.com> 1571114795 +0800	reset: moving to 2ce7dd9eb8e8b18896414f33b9c1a46fadda624f
+2ce7dd9eb8e8b18896414f33b9c1a46fadda624f 25c6991565a7cef447b4b9134a7de73e0406abd8 wujinfeng <wujinfeng@bbktel.com> 1571114848 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+25c6991565a7cef447b4b9134a7de73e0406abd8 0f2c97113051f1f8b1c74394b0932e03237a7946 wujinfeng <wujinfeng@bbktel.com> 1571115206 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+0f2c97113051f1f8b1c74394b0932e03237a7946 ce7e984d998814ac420e754e559e257ddc5b30b0 wujinfeng <wujinfeng@bbktel.com> 1571115279 +0800	am: add logs for video hot words search feature
+ce7e984d998814ac420e754e559e257ddc5b30b0 0f2c97113051f1f8b1c74394b0932e03237a7946 wujinfeng <wujinfeng@bbktel.com> 1571215100 +0800	reset: moving to 0f2c97113051
+0f2c97113051f1f8b1c74394b0932e03237a7946 adf3d2097c70c9a05009dcd5736e6a4e4af9e5d4 wujinfeng <wujinfeng@bbktel.com> 1571215506 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+adf3d2097c70c9a05009dcd5736e6a4e4af9e5d4 ed20f3628f6bc0f9193dad662d0f1e4484e52103 wujinfeng <wujinfeng@bbktel.com> 1571215523 +0800	am: add logs for video hot words search feature
+ed20f3628f6bc0f9193dad662d0f1e4484e52103 b3deb4ca2b4f18b564d4a5b38f0f7c9113e2d1dd wujinfeng <wujinfeng@bbktel.com> 1571291992 +0800	commit: abc
+b3deb4ca2b4f18b564d4a5b38f0f7c9113e2d1dd ed20f3628f6bc0f9193dad662d0f1e4484e52103 wujinfeng <wujinfeng@bbktel.com> 1571292015 +0800	reset: moving to ed20f3628f6bc0f9193dad662d0f1e4484e52103
+ed20f3628f6bc0f9193dad662d0f1e4484e52103 adf3d2097c70c9a05009dcd5736e6a4e4af9e5d4 wujinfeng <wujinfeng@bbktel.com> 1571292048 +0800	reset: moving to adf3d2097c70c9a05009dcd5736e6a4e4af9e5d4
+adf3d2097c70c9a05009dcd5736e6a4e4af9e5d4 47281cf89803fde14bc7f9894ddd34294122388b wujinfeng <wujinfeng@bbktel.com> 1571292061 +0800	am: abc
+47281cf89803fde14bc7f9894ddd34294122388b adf3d2097c70c9a05009dcd5736e6a4e4af9e5d4 wujinfeng <wujinfeng@bbktel.com> 1571292097 +0800	reset: moving to adf3d2097c70c9a05009dcd5736e6a4e4af9e5d4
+adf3d2097c70c9a05009dcd5736e6a4e4af9e5d4 7269ae298a7f4d9b699bf6eaa35c5fdf8b3884b8 wujinfeng <wujinfeng@bbktel.com> 1571292163 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+7269ae298a7f4d9b699bf6eaa35c5fdf8b3884b8 b8b23fe17522ee51194cb767403d1f49f5f4f865 wujinfeng <wujinfeng@bbktel.com> 1571292211 +0800	am: add logs for video hot words search feature
+b8b23fe17522ee51194cb767403d1f49f5f4f865 cb6f7f4c29df443ca93629a8559e198608f4ed4a wujinfeng <wujinfeng@bbktel.com> 1571312160 +0800	commit: adbde
+cb6f7f4c29df443ca93629a8559e198608f4ed4a b8b23fe17522ee51194cb767403d1f49f5f4f865 wujinfeng <wujinfeng@bbktel.com> 1571312198 +0800	reset: moving to b8b23fe17522ee51194cb767403d1f49f5f4f865
+b8b23fe17522ee51194cb767403d1f49f5f4f865 7269ae298a7f4d9b699bf6eaa35c5fdf8b3884b8 wujinfeng <wujinfeng@bbktel.com> 1571312213 +0800	reset: moving to 7269ae298a7f4d9b699bf6eaa35c5fdf8b3884b8
+7269ae298a7f4d9b699bf6eaa35c5fdf8b3884b8 3a2e67c7f8a1e27076bf2331e24d767732559ed7 wujinfeng <wujinfeng@bbktel.com> 1571312221 +0800	am: adbde
+3a2e67c7f8a1e27076bf2331e24d767732559ed7 7269ae298a7f4d9b699bf6eaa35c5fdf8b3884b8 wujinfeng <wujinfeng@bbktel.com> 1571312251 +0800	reset: moving to 7269ae298a7f4d9b699bf6eaa35c5fdf8b3884b8
+7269ae298a7f4d9b699bf6eaa35c5fdf8b3884b8 5bc683ee8c28f8b1276403e738a94f0bb13ca0e8 wujinfeng <wujinfeng@bbktel.com> 1571312269 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+5bc683ee8c28f8b1276403e738a94f0bb13ca0e8 0fe3ebd38505781d8b874095ec213df184f46c0a wujinfeng <wujinfeng@bbktel.com> 1571312340 +0800	reset: moving to 0fe3ebd38505781d8b874095ec213df184f46c0a
+0fe3ebd38505781d8b874095ec213df184f46c0a 02f1d2c89f768949745c55417625604c985392d3 wujinfeng <wujinfeng@bbktel.com> 1571312366 +0800	cherry-pick: 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+02f1d2c89f768949745c55417625604c985392d3 0fe3ebd38505781d8b874095ec213df184f46c0a wujinfeng <wujinfeng@bbktel.com> 1571312403 +0800	reset: moving to 0fe3ebd38505781d8b874095ec213df184f46c0a
+0fe3ebd38505781d8b874095ec213df184f46c0a cd49c9203f332f07fc4254a529c48cbb5b8043b5 wujinfeng <wujinfeng@bbktel.com> 1571312552 +0800	commit: ab
+cd49c9203f332f07fc4254a529c48cbb5b8043b5 fa1d70b54bd8cabcc327ae19892404490091567d wujinfeng <wujinfeng@bbktel.com> 1571312558 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+fa1d70b54bd8cabcc327ae19892404490091567d 0fe3ebd38505781d8b874095ec213df184f46c0a wujinfeng <wujinfeng@bbktel.com> 1571312718 +0800	reset: moving to 0fe3ebd38505781d8b874095ec213df184f46c0a
+0fe3ebd38505781d8b874095ec213df184f46c0a 2ad72f5ae8e4894eacac65c4f3221f974c95fc09 wujinfeng <wujinfeng@bbktel.com> 1571312979 +0800	commit: ab
+2ad72f5ae8e4894eacac65c4f3221f974c95fc09 08078639f7b7f199563bdf5b8188d20e0e60532a wujinfeng <wujinfeng@bbktel.com> 1571312990 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+08078639f7b7f199563bdf5b8188d20e0e60532a 660145c5dffdc0475f1f548cbff6b1cab47c628b wujinfeng <wujinfeng@bbktel.com> 1571313087 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+660145c5dffdc0475f1f548cbff6b1cab47c628b 25bcfdbd5facd27a6f5e7cd5024bb2c88c77f02b wujinfeng <wujinfeng@bbktel.com> 1571313145 +0800	am: add logs for video hot words search feature
+25bcfdbd5facd27a6f5e7cd5024bb2c88c77f02b d3cefba4f8756c81b19d3a4bfb71dfbed43c423f wujinfeng <wujinfeng@bbktel.com> 1571326131 +0800	commit (amend): add logs for video hot words search feature
+d3cefba4f8756c81b19d3a4bfb71dfbed43c423f 660145c5dffdc0475f1f548cbff6b1cab47c628b wujinfeng <wujinfeng@bbktel.com> 1571326513 +0800	reset: moving to 660145c5dffdc0475f1f548cbff6b1cab47c628b
+660145c5dffdc0475f1f548cbff6b1cab47c628b 1e45cad028880d900f6f7ad0c7a18451798e7b37 wujinfeng <wujinfeng@bbktel.com> 1571326662 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+1e45cad028880d900f6f7ad0c7a18451798e7b37 6634415fd986e669770791c36097e9ea6d98e200 wujinfeng <wujinfeng@bbktel.com> 1571326960 +0800	am: add logs for video hot words search feature
+6634415fd986e669770791c36097e9ea6d98e200 1e45cad028880d900f6f7ad0c7a18451798e7b37 wujinfeng <wujinfeng@bbktel.com> 1571367803 +0800	reset: moving to 1e45cad028880d900f6f7ad0c7a18451798e7b37
+1e45cad028880d900f6f7ad0c7a18451798e7b37 2fb96ed3b271294d9a16fc6e0f4040b7f6d14931 wujinfeng <wujinfeng@bbktel.com> 1571367873 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+2fb96ed3b271294d9a16fc6e0f4040b7f6d14931 9d831b13c61195de8663341670974673f38d9e6f wujinfeng <wujinfeng@bbktel.com> 1571367899 +0800	pull --rebase: checkout 9d831b13c61195de8663341670974673f38d9e6f
+9d831b13c61195de8663341670974673f38d9e6f 454faaa3a6bdb8f58b347f816e6ef67a53256dc4 wujinfeng <wujinfeng@bbktel.com> 1571368978 +0800	rebase: 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+454faaa3a6bdb8f58b347f816e6ef67a53256dc4 454faaa3a6bdb8f58b347f816e6ef67a53256dc4 wujinfeng <wujinfeng@bbktel.com> 1571368980 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+454faaa3a6bdb8f58b347f816e6ef67a53256dc4 8e726dda8c835076bb790cdb756bac8b1055840c wujinfeng <wujinfeng@bbktel.com> 1571369000 +0800	am: add logs for video hot words search feature
+8e726dda8c835076bb790cdb756bac8b1055840c 454faaa3a6bdb8f58b347f816e6ef67a53256dc4 wujinfeng <wujinfeng@bbktel.com> 1571385426 +0800	reset: moving to 454faaa3a6bdb8f58b347f816e6ef67a53256dc4
+454faaa3a6bdb8f58b347f816e6ef67a53256dc4 226d7b3343b186f83e73a2a05b8e82ee95346141 wujinfeng <wujinfeng@bbktel.com> 1571386739 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+226d7b3343b186f83e73a2a05b8e82ee95346141 b6705b727310c630fd21514ebfe2d7db608251d1 wujinfeng <wujinfeng@bbktel.com> 1571386760 +0800	pull --rebase: checkout b6705b727310c630fd21514ebfe2d7db608251d1
+b6705b727310c630fd21514ebfe2d7db608251d1 d52f8c10b5868142bf2996f4a250305bebf19423 wujinfeng <wujinfeng@bbktel.com> 1571386998 +0800	rebase: 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+d52f8c10b5868142bf2996f4a250305bebf19423 d52f8c10b5868142bf2996f4a250305bebf19423 wujinfeng <wujinfeng@bbktel.com> 1571386999 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+d52f8c10b5868142bf2996f4a250305bebf19423 6470e0076461ce1d43aee8bce8dc28251b4f5a21 wujinfeng <wujinfeng@bbktel.com> 1571387016 +0800	am: add logs for video hot words search feature
+6470e0076461ce1d43aee8bce8dc28251b4f5a21 d52f8c10b5868142bf2996f4a250305bebf19423 wujinfeng <wujinfeng@bbktel.com> 1571398630 +0800	reset: moving to d52f8c10b5868142bf2996f4a250305bebf19423
+d52f8c10b5868142bf2996f4a250305bebf19423 9c8305bf5f26eebdbb852c43307dc43fb5cba375 wujinfeng <wujinfeng@bbktel.com> 1571398748 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+9c8305bf5f26eebdbb852c43307dc43fb5cba375 dbb35643aff707236d7e1c2eee260f08ad86368b wujinfeng <wujinfeng@bbktel.com> 1571398769 +0800	pull --rebase: checkout dbb35643aff707236d7e1c2eee260f08ad86368b
+dbb35643aff707236d7e1c2eee260f08ad86368b f1207e5364a17bb0038130628a04e5e1b11b1ac8 wujinfeng <wujinfeng@bbktel.com> 1571398923 +0800	rebase: 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+f1207e5364a17bb0038130628a04e5e1b11b1ac8 f1207e5364a17bb0038130628a04e5e1b11b1ac8 wujinfeng <wujinfeng@bbktel.com> 1571398925 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+f1207e5364a17bb0038130628a04e5e1b11b1ac8 dbb35643aff707236d7e1c2eee260f08ad86368b wujinfeng <wujinfeng@bbktel.com> 1571398993 +0800	reset: moving to dbb35643aff707236d7e1c2eee260f08ad86368b
+dbb35643aff707236d7e1c2eee260f08ad86368b 0369798ff17843825d194ddc43a98b9b8939f863 wujinfeng <wujinfeng@bbktel.com> 1571399303 +0800	commit: a
+0369798ff17843825d194ddc43a98b9b8939f863 5579d1f015ada978d27277aff172385f300af7c4 wujinfeng <wujinfeng@bbktel.com> 1571399335 +0800	commit (amend): 【Feature】: PD2000:[VR190827-067]实现视频热词轮播搜索框功能
+5579d1f015ada978d27277aff172385f300af7c4 dbb35643aff707236d7e1c2eee260f08ad86368b wujinfeng <wujinfeng@bbktel.com> 1571407455 +0800	reset: moving to dbb35643aff707236d7e1c2eee260f08ad86368b
+dbb35643aff707236d7e1c2eee260f08ad86368b 5579d1f015ada978d27277aff172385f300af7c4 wujinfeng <wujinfeng@bbktel.com> 1571407463 +0800	pull: Fast-forward
+5579d1f015ada978d27277aff172385f300af7c4 0f2314f5054f12c7f0021122286615254b754efd wujinfeng <wujinfeng@bbktel.com> 1571797522 +0800	pull --rebase: checkout 0f2314f5054f12c7f0021122286615254b754efd
+0f2314f5054f12c7f0021122286615254b754efd 0f2314f5054f12c7f0021122286615254b754efd wujinfeng <wujinfeng@bbktel.com> 1571797522 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+0f2314f5054f12c7f0021122286615254b754efd c1f2d0feea2036eabe855abf78306e98a7ff942e wujinfeng <wujinfeng@bbktel.com> 1571816803 +0800	am: add logs for video hot words search feature
+c1f2d0feea2036eabe855abf78306e98a7ff942e 7ffea430cd2713152b351ea5235928e0de75c7dd wujinfeng <wujinfeng@bbktel.com> 1571886191 +0800	commit: adjust hot words bar width
+7ffea430cd2713152b351ea5235928e0de75c7dd e5d53c067b4ff6bce6bb2f95fabc4fb121adc8a6 wujinfeng <wujinfeng@bbktel.com> 1571897202 +0800	commit: fix hot words search result tag exit issue
+e5d53c067b4ff6bce6bb2f95fabc4fb121adc8a6 bca9dc166edf0105be7ad9d7d2a92620920939b4 wujinfeng <wujinfeng@bbktel.com> 1571897245 +0800	pull --rebase: checkout bca9dc166edf0105be7ad9d7d2a92620920939b4
+bca9dc166edf0105be7ad9d7d2a92620920939b4 8339fde0bb1ea34a65da011837c7609973836767 wujinfeng <wujinfeng@bbktel.com> 1571897245 +0800	pull --rebase: add logs for video hot words search feature
+8339fde0bb1ea34a65da011837c7609973836767 155d2772af9cd39abcabea60c1893c312359ac42 wujinfeng <wujinfeng@bbktel.com> 1571897245 +0800	pull --rebase: adjust hot words bar width
+155d2772af9cd39abcabea60c1893c312359ac42 d2ef9e311e7bd04a365d889342442de6ff09082a wujinfeng <wujinfeng@bbktel.com> 1571897245 +0800	pull --rebase: fix hot words search result tag exit issue
+d2ef9e311e7bd04a365d889342442de6ff09082a d2ef9e311e7bd04a365d889342442de6ff09082a wujinfeng <wujinfeng@bbktel.com> 1571897249 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+d2ef9e311e7bd04a365d889342442de6ff09082a 8339fde0bb1ea34a65da011837c7609973836767 wujinfeng <wujinfeng@bbktel.com> 1571897306 +0800	reset: moving to 8339fde0bb1ea34a65da011837c7609973836767
+8339fde0bb1ea34a65da011837c7609973836767 bca9dc166edf0105be7ad9d7d2a92620920939b4 wujinfeng <wujinfeng@bbktel.com> 1571897328 +0800	reset: moving to bca9dc166edf0105be7ad9d7d2a92620920939b4
+bca9dc166edf0105be7ad9d7d2a92620920939b4 dd36c0d6cc700118f961164bc8b8644c00609399 wujinfeng <wujinfeng@bbktel.com> 1571897364 +0800	am: adjust hot words bar width
+dd36c0d6cc700118f961164bc8b8644c00609399 bca9dc166edf0105be7ad9d7d2a92620920939b4 wujinfeng <wujinfeng@bbktel.com> 1571897381 +0800	reset: moving to bca9dc166edf0105be7ad9d7d2a92620920939b4
+bca9dc166edf0105be7ad9d7d2a92620920939b4 4f3cbf8ea0edc962244f8c766d7d78a104897d82 wujinfeng <wujinfeng@bbktel.com> 1571897614 +0800	commit: 【Bug Fix】: PD123456:[VB191022-097]解决Y33，Y22机型全屏播放视频暂停后，搜索框展示字符数不对的问题
+4f3cbf8ea0edc962244f8c766d7d78a104897d82 bacf089c875038cc8eb6fc6af64f07960cd4243e wujinfeng <wujinfeng@bbktel.com> 1571897771 +0800	commit: 【Bug Fix】: PD123456:[VB191022-097]解决Y33，Y22机型全屏播放视频暂停后，搜索框展示字符数不对的问题
+bacf089c875038cc8eb6fc6af64f07960cd4243e 4f3cbf8ea0edc962244f8c766d7d78a104897d82 wujinfeng <wujinfeng@bbktel.com> 1571897844 +0800	reset: moving to 4f3cbf8ea0edc962244f8c766d7d78a104897d82
+4f3cbf8ea0edc962244f8c766d7d78a104897d82 cc1f169bbc4169ef4c1ec0ed41e00397af9d5798 wujinfeng <wujinfeng@bbktel.com> 1571897873 +0800	commit (amend): 【Bug Fix】: PD123456:[VB191022-097]解决Y33，Y22机型全屏播放视频暂停后，搜索框展示字符数不对的问题
+cc1f169bbc4169ef4c1ec0ed41e00397af9d5798 ce1d64d0aa621469721b8fad4562cf496a05942a wujinfeng <wujinfeng@bbktel.com> 1571897911 +0800	am: fix hot words search result tag exit issue
+ce1d64d0aa621469721b8fad4562cf496a05942a cc1f169bbc4169ef4c1ec0ed41e00397af9d5798 wujinfeng <wujinfeng@bbktel.com> 1571897942 +0800	reset: moving to cc1f169bbc4169ef4c1ec0ed41e00397af9d5798
+cc1f169bbc4169ef4c1ec0ed41e00397af9d5798 5d4217793ceb356a8e75d88d0b531dbc2ea74fc8 wujinfeng <wujinfeng@bbktel.com> 1571898367 +0800	commit: 【Bug Fix】: PD123456:[VB191018-176]解决迅雷直播点击轮播搜索词后关闭搜索页视屏播放界面消失的问题
+5d4217793ceb356a8e75d88d0b531dbc2ea74fc8 cc1f169bbc4169ef4c1ec0ed41e00397af9d5798 wujinfeng <wujinfeng@bbktel.com> 1571900505 +0800	reset: moving to cc1f169bbc4169ef4c1ec0ed41e00397af9d5798
+cc1f169bbc4169ef4c1ec0ed41e00397af9d5798 eacefd1292eda4ca8982c8f4d3ecb3617e1bb0b8 wujinfeng <wujinfeng@bbktel.com> 1571900550 +0800	am: 【Bug Fix】: PD123456:[VB191018-176]解决迅雷直播点击轮播搜索词后关闭搜索页视屏播放界面消失的问题
+eacefd1292eda4ca8982c8f4d3ecb3617e1bb0b8 ae8d7abd24a814a05fbcd561edfbf3de555251d8 wujinfeng <wujinfeng@bbktel.com> 1571914369 +0800	commit (amend): 【Bug Fix】: PD123456:[VB191018-176]解决迅雷直播点击轮播搜索词后关闭搜索页视屏播放界面消失的问题
+ae8d7abd24a814a05fbcd561edfbf3de555251d8 f86ffe920d20dfbe1f85127655124748ee2fabf0 wujinfeng <wujinfeng@bbktel.com> 1571914846 +0800	commit: 【Bug Fix】: PD123456:[VB191023-123]解决shell中点击任意视频或直播平台crash的问题
+f86ffe920d20dfbe1f85127655124748ee2fabf0 ab89da351c4fa11facefb965e3a9dae80afb72cc wujinfeng <wujinfeng@bbktel.com> 1571989527 +0800	am: add logs for video hot words search feature
+ab89da351c4fa11facefb965e3a9dae80afb72cc 28a7940fd988ea6a5b3a8f62f46bcd1db3b1f4c1 wujinfeng <wujinfeng@bbktel.com> 1572060288 +0800	commit: 【Bug Fix】: PD123456:[VB191018-176]解决视频定制界面定时相关的一个遗留问题
+28a7940fd988ea6a5b3a8f62f46bcd1db3b1f4c1 b961f90b2c7225dbfbaba9522f8ed84f3e442f3d wujinfeng <wujinfeng@bbktel.com> 1572060313 +0800	commit (amend): 【Bug Fix】: PD123456:[VB191018-176]aaaaa解决视频定制界面定时相关的一个遗留问题
+b961f90b2c7225dbfbaba9522f8ed84f3e442f3d ab89da351c4fa11facefb965e3a9dae80afb72cc wujinfeng <wujinfeng@bbktel.com> 1572060336 +0800	reset: moving to ab89da351c4fa11facefb965e3a9dae80afb72cc
+ab89da351c4fa11facefb965e3a9dae80afb72cc f86ffe920d20dfbe1f85127655124748ee2fabf0 wujinfeng <wujinfeng@bbktel.com> 1572060356 +0800	reset: moving to f86ffe920d20dfbe1f85127655124748ee2fabf0
+f86ffe920d20dfbe1f85127655124748ee2fabf0 b0bbdeb0358691a3c182798b5e72e0c492bd285d wujinfeng <wujinfeng@bbktel.com> 1572060363 +0800	am: 【Bug Fix】: PD123456:[VB191018-176]aaaaa解决视频定制界面定时相关的一个遗留问题
+b0bbdeb0358691a3c182798b5e72e0c492bd285d 41be6765d6513f0cea7d30e47bccc547ff2c12cd wujinfeng <wujinfeng@bbktel.com> 1572060369 +0800	commit (amend): 【Bug Fix】: PD123456:[VB191018-176]解决视频定制界面定时相关的一个遗留问题
+41be6765d6513f0cea7d30e47bccc547ff2c12cd 06e11eb769b0276beffa7371836c625327dd917a wujinfeng <wujinfeng@bbktel.com> 1572060414 +0800	commit (amend): 【Bug Fix】: PD123456:[VB191018-176]解决视频定制界面定时相关的一个遗留问题
+06e11eb769b0276beffa7371836c625327dd917a 4cb5a19aad89a72b3f1a09a5461a67fc69c1ae98 wujinfeng <wujinfeng@bbktel.com> 1572060530 +0800	commit (amend): 【Bug Fix】: PD123456:[VB191018-176]解决视频定制界面定时相关的一个遗留问题
+4cb5a19aad89a72b3f1a09a5461a67fc69c1ae98 6ad51313a7f13978ee0f5f5b55e91a001a8282d7 wujinfeng <wujinfeng@bbktel.com> 1572244893 +0800	commit: 【Bug Fix】: PD123456:[VB190921-141]解决视频MSE埋点上报的一个ne问题
+6ad51313a7f13978ee0f5f5b55e91a001a8282d7 da853ee292a1387a9b42c63c9226cb56d48e7921 wujinfeng <wujinfeng@bbktel.com> 1572244982 +0800	commit (amend): 【Bug Fix】: PD123456:[VB190921-141]解决视频MSE埋点上报的一个ne问题
+da853ee292a1387a9b42c63c9226cb56d48e7921 f8da1438269b31a43bd13b802f78e7f56d787133 wujinfeng <wujinfeng@bbktel.com> 1573612900 +0800	commit: 【Bug Fix】: PD123456:[VB190921-141]解决监听屏幕锁屏/开屏时的anr问题
+f8da1438269b31a43bd13b802f78e7f56d787133 150f1e02e7f0b09e936967a290d5423f0189b5c5 wujinfeng <wujinfeng@bbktel.com> 1573612949 +0800	commit (amend): 【Bug Fix】: PD123456:[VB190921-141]解决监听屏幕锁屏/开屏时的anr问题
+150f1e02e7f0b09e936967a290d5423f0189b5c5 c83e0fe30ad7f1e64df27248fc4d4083555b10fa wujinfeng <wujinfeng@bbktel.com> 1573613017 +0800	commit (amend): 【Bug Fix】: PD123456:[VB190921-141]解决监听屏幕锁屏/开屏时的anr问题
+c83e0fe30ad7f1e64df27248fc4d4083555b10fa 3d22f56950499ccc49fc3eb555783a9967996976 wujinfeng <wujinfeng@bbktel.com> 1573613091 +0800	checkout: moving from vivo_webview_trunk to vivo_webview_release_2.2.2
+3d22f56950499ccc49fc3eb555783a9967996976 71b5ad79b510aa380b26c607294814af50dd0ac3 wujinfeng <wujinfeng@bbktel.com> 1573613109 +0800	pull --rebase: checkout 71b5ad79b510aa380b26c607294814af50dd0ac3
+71b5ad79b510aa380b26c607294814af50dd0ac3 71b5ad79b510aa380b26c607294814af50dd0ac3 wujinfeng <wujinfeng@bbktel.com> 1573613109 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.2.2
+71b5ad79b510aa380b26c607294814af50dd0ac3 c83e0fe30ad7f1e64df27248fc4d4083555b10fa wujinfeng <wujinfeng@bbktel.com> 1573613806 +0800	checkout: moving from vivo_webview_release_2.2.2 to vivo_webview_trunk
+c83e0fe30ad7f1e64df27248fc4d4083555b10fa 4da9425d6d2ec099bc2d7435c207dcfaf29688df wujinfeng <wujinfeng@bbktel.com> 1573613857 +0800	checkout: moving from vivo_webview_trunk to origin/vivo_webview_release_2.22.0
+4da9425d6d2ec099bc2d7435c207dcfaf29688df 4da9425d6d2ec099bc2d7435c207dcfaf29688df wujinfeng <wujinfeng@bbktel.com> 1573613878 +0800	checkout: moving from 4da9425d6d2ec099bc2d7435c207dcfaf29688df to vivo_webview_release_2.22.0
+4da9425d6d2ec099bc2d7435c207dcfaf29688df c18cbd7574a8cf49ef832afdd000edc77b824ba2 wujinfeng <wujinfeng@bbktel.com> 1573614020 +0800	am: 【Bug Fix】: PD123456:[VB190921-141]解决监听屏幕锁屏/开屏时的anr问题
+c18cbd7574a8cf49ef832afdd000edc77b824ba2 9161002230e45ad891c7d1d95116bcee7982286b wujinfeng <wujinfeng@bbktel.com> 1573621139 +0800	commit (amend): 【Bug Fix】: PD123456:[VB190921-141]解决监听屏幕锁屏/开屏时的anr问题
+9161002230e45ad891c7d1d95116bcee7982286b 2e7390f6b4b823ddba36155d21e18280e9251055 wujinfeng <wujinfeng@bbktel.com> 1573626083 +0800	commit (amend): 【Bug Fix】: PD123456:[VB190921-141]解决监听屏幕锁屏/开屏时的anr问题
+2e7390f6b4b823ddba36155d21e18280e9251055 605cecb738ebd7dc0ed6312acc1f1dbb548d49fe wujinfeng <wujinfeng@bbktel.com> 1573626768 +0800	commit (amend): 【Bug Fix】: PD123456:[VB190921-141]解决监听屏幕锁屏/开屏时的anr问题
+605cecb738ebd7dc0ed6312acc1f1dbb548d49fe da1b0b1d419f70988b1ce6bf34537a0fb377bab6 wujinfeng <wujinfeng@bbktel.com> 1573707562 +0800	commit: 【Bug Fix】: PD123456:[VB190921-141]解决解决监听屏幕锁屏/开屏时的anr问题
+da1b0b1d419f70988b1ce6bf34537a0fb377bab6 dc3ed03702366869e7a83ecb68d1f7deb61548b2 wujinfeng <wujinfeng@bbktel.com> 1573707742 +0800	pull --rebase: checkout dc3ed03702366869e7a83ecb68d1f7deb61548b2
+dc3ed03702366869e7a83ecb68d1f7deb61548b2 60830700899c9b148252189bc54aa625fd6c5972 wujinfeng <wujinfeng@bbktel.com> 1573707742 +0800	pull --rebase: 【Bug Fix】: PD123456:[VB190921-141]解决解决监听屏幕锁屏/开屏时的anr问题
+60830700899c9b148252189bc54aa625fd6c5972 60830700899c9b148252189bc54aa625fd6c5972 wujinfeng <wujinfeng@bbktel.com> 1573707744 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.22.0
+60830700899c9b148252189bc54aa625fd6c5972 dc3ed03702366869e7a83ecb68d1f7deb61548b2 wujinfeng <wujinfeng@bbktel.com> 1573714148 +0800	reset: moving to dc3ed03702366869e7a83ecb68d1f7deb61548b2
+dc3ed03702366869e7a83ecb68d1f7deb61548b2 60830700899c9b148252189bc54aa625fd6c5972 wujinfeng <wujinfeng@bbktel.com> 1573714159 +0800	pull --rebase: checkout 60830700899c9b148252189bc54aa625fd6c5972
+60830700899c9b148252189bc54aa625fd6c5972 60830700899c9b148252189bc54aa625fd6c5972 wujinfeng <wujinfeng@bbktel.com> 1573714159 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.22.0
+60830700899c9b148252189bc54aa625fd6c5972 dc3ed03702366869e7a83ecb68d1f7deb61548b2 wujinfeng <wujinfeng@bbktel.com> 1573714215 +0800	reset: moving to dc3ed03702366869e7a83ecb68d1f7deb61548b2
+dc3ed03702366869e7a83ecb68d1f7deb61548b2 4176ef725fecebe403e84e9fbbc699c6fa18609e wujinfeng <wujinfeng@bbktel.com> 1573714253 +0800	commit (amend): 【Bug Fix】: PD123456:[VB190921-141]解决监听屏幕锁屏/开屏时的anr问题
+4176ef725fecebe403e84e9fbbc699c6fa18609e a85a09a4dffba8ab7962803e4f47d370ceffc7de wujinfeng <wujinfeng@bbktel.com> 1573715187 +0800	reset: moving to a85a09a4dffba8ab7962803e4f47d370ceffc7de
+a85a09a4dffba8ab7962803e4f47d370ceffc7de 8e494d18a015c8be481624876144050a3c5d6974 wujinfeng <wujinfeng@bbktel.com> 1573720647 +0800	pull --rebase: checkout 8e494d18a015c8be481624876144050a3c5d6974
+8e494d18a015c8be481624876144050a3c5d6974 8e494d18a015c8be481624876144050a3c5d6974 wujinfeng <wujinfeng@bbktel.com> 1573720647 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.22.0
+8e494d18a015c8be481624876144050a3c5d6974 a85a09a4dffba8ab7962803e4f47d370ceffc7de wujinfeng <wujinfeng@bbktel.com> 1574046831 +0800	reset: moving to a85a09a4dffba8ab7962803e4f47d370ceffc7de
+a85a09a4dffba8ab7962803e4f47d370ceffc7de 1bfd6b852e13f53019c3baa22ceb3518feb4fe83 wujinfeng <wujinfeng@bbktel.com> 1574046914 +0800	pull --rebase: checkout 1bfd6b852e13f53019c3baa22ceb3518feb4fe83
+1bfd6b852e13f53019c3baa22ceb3518feb4fe83 1bfd6b852e13f53019c3baa22ceb3518feb4fe83 wujinfeng <wujinfeng@bbktel.com> 1574046914 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.22.0
+1bfd6b852e13f53019c3baa22ceb3518feb4fe83 e44a5b9eb4090bd4c805cc40906ba52040cbd5b5 wujinfeng <wujinfeng@bbktel.com> 1574654336 +0800	checkout: moving from vivo_webview_release_2.22.0 to vivo_webview_feature_online_settings
+e44a5b9eb4090bd4c805cc40906ba52040cbd5b5 ea0ddbad7a5846da332bcfaa6369e1ba626e0d38 wujinfeng <wujinfeng@bbktel.com> 1574680245 +0800	commit: 【Bug Fix】: 修正GlobalSettings视频相关逻辑
+ea0ddbad7a5846da332bcfaa6369e1ba626e0d38 c5441abec21ac3c7a8e96124686eb5e8bb536b07 wujinfeng <wujinfeng@bbktel.com> 1574680357 +0800	commit (amend): 【Bug Fix】: 修正GlobalSettings视频相关逻辑
+c5441abec21ac3c7a8e96124686eb5e8bb536b07 89a190e045f344a8611e20f666a91fc3ffe87dbc wujinfeng <wujinfeng@bbktel.com> 1574680411 +0800	commit (amend): 【Bug Fix】: 修正GlobalSettings视频相关逻辑
+89a190e045f344a8611e20f666a91fc3ffe87dbc 86b455b868ca8876e70081c0c6f6bfe1c73a65db wujinfeng <wujinfeng@bbktel.com> 1574909276 +0800	commit: 【Bug Fix】: 把选集的配置下发逻辑进一步集中到WebMediaConfigManager中统一管理，简化类的结构，消除冗余逻辑
+86b455b868ca8876e70081c0c6f6bfe1c73a65db 68ca4b5ca3b2460fc464596fa8d8b27e022fce6f wujinfeng <wujinfeng@bbktel.com> 1574909302 +0800	pull --rebase: checkout 68ca4b5ca3b2460fc464596fa8d8b27e022fce6f
+68ca4b5ca3b2460fc464596fa8d8b27e022fce6f 6d082df3315691418c1d413ae59b2fcea1021d2b wujinfeng <wujinfeng@bbktel.com> 1574909814 +0800	rebase: 【Bug Fix】: 把选集的配置下发逻辑进一步集中到WebMediaConfigManager中统一管理，简化类的结构，消除冗余逻辑
+6d082df3315691418c1d413ae59b2fcea1021d2b 6d082df3315691418c1d413ae59b2fcea1021d2b wujinfeng <wujinfeng@bbktel.com> 1574909816 +0800	rebase finished: returning to refs/heads/vivo_webview_feature_online_settings
+6d082df3315691418c1d413ae59b2fcea1021d2b 137ebf8bfbc0ecf647db9df20fafe2ac7f592640 wujinfeng <wujinfeng@bbktel.com> 1575339355 +0800	pull --rebase: checkout 137ebf8bfbc0ecf647db9df20fafe2ac7f592640
+137ebf8bfbc0ecf647db9df20fafe2ac7f592640 137ebf8bfbc0ecf647db9df20fafe2ac7f592640 wujinfeng <wujinfeng@bbktel.com> 1575339356 +0800	rebase finished: returning to refs/heads/vivo_webview_feature_online_settings
+137ebf8bfbc0ecf647db9df20fafe2ac7f592640 7b1a2ff18459f53b008e58423eeca338a325143c wujinfeng <wujinfeng@bbktel.com> 1575339475 +0800	checkout: moving from vivo_webview_feature_online_settings to vivo_webview_release_2.6.2_ex_test
+7b1a2ff18459f53b008e58423eeca338a325143c b3e017eb2f8688dd5317c4011848d96a248bf73a wujinfeng <wujinfeng@bbktel.com> 1575360024 +0800	checkout: moving from vivo_webview_release_2.6.2_ex_test to vivo_webview_release_2.6.5
+b3e017eb2f8688dd5317c4011848d96a248bf73a 7b1a2ff18459f53b008e58423eeca338a325143c wujinfeng <wujinfeng@bbktel.com> 1575372488 +0800	checkout: moving from vivo_webview_release_2.6.5 to vivo_webview_release_2.6.2_ex_test
+7b1a2ff18459f53b008e58423eeca338a325143c 6b87f98c12563cd44c8c61a6bca4ed2952a57aba wujinfeng <wujinfeng@bbktel.com> 1575373191 +0800	pull --rebase: checkout 6b87f98c12563cd44c8c61a6bca4ed2952a57aba
+6b87f98c12563cd44c8c61a6bca4ed2952a57aba 6b87f98c12563cd44c8c61a6bca4ed2952a57aba wujinfeng <wujinfeng@bbktel.com> 1575373191 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.6.2_ex_test
+6b87f98c12563cd44c8c61a6bca4ed2952a57aba 10cb2ed0582c000384dfc3a270d4dddc40700cf1 wujinfeng <wujinfeng@bbktel.com> 1575432604 +0800	commit: 【Bug Fix】: PD1000:[B191121-2669]进入浏览器，未登录爱奇艺账号播放视频，再进入浏览器-我的视频-最近，不显示浏览历史
+10cb2ed0582c000384dfc3a270d4dddc40700cf1 80d4b3cdb9b2dfa6df086cd616ce292a019d1176 wujinfeng <wujinfeng@bbktel.com> 1575439731 +0800	commit (amend): 【Bug Fix】: PD1000:[B191121-2669]进入浏览器，未登录爱奇艺账号播放视频，再进入浏览器-我的视频-最近，不显示浏览历史
+80d4b3cdb9b2dfa6df086cd616ce292a019d1176 d723991a1d232efb9225a6cf7abe4bc3f1fb94bc wujinfeng <wujinfeng@bbktel.com> 1575444216 +0800	commit (amend): 【Bug Fix】: PD1000:[B191121-2669]进入浏览器，未登录爱奇艺账号播放视频，再进入浏览器-我的视频-最近，不显示浏览历史
+d723991a1d232efb9225a6cf7abe4bc3f1fb94bc e0f5b9fd9992f5b6b723c620864c9523c5085dda wujinfeng <wujinfeng@bbktel.com> 1575633304 +0800	checkout: moving from vivo_webview_release_2.6.2_ex_test to vivo_webview_apk_release_1.0.0.0
+e0f5b9fd9992f5b6b723c620864c9523c5085dda d723991a1d232efb9225a6cf7abe4bc3f1fb94bc wujinfeng <wujinfeng@bbktel.com> 1575635082 +0800	checkout: moving from vivo_webview_apk_release_1.0.0.0 to vivo_webview_release_2.6.2_ex_test
+d723991a1d232efb9225a6cf7abe4bc3f1fb94bc 4e208e173a329d05b8bee2f0c5fc26448eb37a7f wujinfeng <wujinfeng@bbktel.com> 1576748779 +0800	pull --rebase: checkout 4e208e173a329d05b8bee2f0c5fc26448eb37a7f
+4e208e173a329d05b8bee2f0c5fc26448eb37a7f 4e208e173a329d05b8bee2f0c5fc26448eb37a7f wujinfeng <wujinfeng@bbktel.com> 1576748780 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.6.2_ex_test
+4e208e173a329d05b8bee2f0c5fc26448eb37a7f 6f463376e987133d184c2d1549dc50fdad98c4be wujinfeng <wujinfeng@bbktel.com> 1576748801 +0800	reset: moving to 6f463376e987133d184c2d1549dc50fdad98c4be
+6f463376e987133d184c2d1549dc50fdad98c4be 4e208e173a329d05b8bee2f0c5fc26448eb37a7f wujinfeng <wujinfeng@bbktel.com> 1576748813 +0800	pull --rebase: checkout 4e208e173a329d05b8bee2f0c5fc26448eb37a7f
+4e208e173a329d05b8bee2f0c5fc26448eb37a7f 4e208e173a329d05b8bee2f0c5fc26448eb37a7f wujinfeng <wujinfeng@bbktel.com> 1576748813 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.6.2_ex_test
+4e208e173a329d05b8bee2f0c5fc26448eb37a7f 137ebf8bfbc0ecf647db9df20fafe2ac7f592640 wujinfeng <wujinfeng@bbktel.com> 1576748830 +0800	checkout: moving from vivo_webview_release_2.6.2_ex_test to vivo_webview_feature_online_settings
+137ebf8bfbc0ecf647db9df20fafe2ac7f592640 c83e0fe30ad7f1e64df27248fc4d4083555b10fa wujinfeng <wujinfeng@bbktel.com> 1577155765 +0800	checkout: moving from vivo_webview_feature_online_settings to vivo_webview_trunk
+c83e0fe30ad7f1e64df27248fc4d4083555b10fa da853ee292a1387a9b42c63c9226cb56d48e7921 wujinfeng <wujinfeng@bbktel.com> 1577155838 +0800	reset: moving to da853ee292a1387a9b42c63c9226cb56d48e7921
+da853ee292a1387a9b42c63c9226cb56d48e7921 0616613104b7018b42250a4877abcf7261a7b76f wujinfeng <wujinfeng@bbktel.com> 1577155903 +0800	pull --rebase: checkout 0616613104b7018b42250a4877abcf7261a7b76f
+0616613104b7018b42250a4877abcf7261a7b76f 0616613104b7018b42250a4877abcf7261a7b76f wujinfeng <wujinfeng@bbktel.com> 1577155904 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+0616613104b7018b42250a4877abcf7261a7b76f d3872b6f4ae24c0f951ef10dc5388866384f1da8 wujinfeng <wujinfeng@bbktel.com> 1577156283 +0800	reset: moving to d3872b6f4ae24c0f951ef10dc5388866384f1da8
+d3872b6f4ae24c0f951ef10dc5388866384f1da8 f4ed94ade2982279e90a6440bfd41789c522240d wujinfeng <wujinfeng@bbktel.com> 1577157415 +0800	am: opimize video album logics
+f4ed94ade2982279e90a6440bfd41789c522240d e875288b2bb0b6b982d0aa21d826f5b1922d744b wujinfeng <wujinfeng@bbktel.com> 1577158865 +0800	reset: moving to e875288b2bb0b6b982d0aa21d826f5b1922d744b
+e875288b2bb0b6b982d0aa21d826f5b1922d744b 0616613104b7018b42250a4877abcf7261a7b76f wujinfeng <wujinfeng@bbktel.com> 1577158876 +0800	pull: Fast-forward
+0616613104b7018b42250a4877abcf7261a7b76f e875288b2bb0b6b982d0aa21d826f5b1922d744b wujinfeng <wujinfeng@bbktel.com> 1577158885 +0800	reset: moving to e875288b2bb0b6b982d0aa21d826f5b1922d744b
+e875288b2bb0b6b982d0aa21d826f5b1922d744b 0616613104b7018b42250a4877abcf7261a7b76f wujinfeng <wujinfeng@bbktel.com> 1577162673 +0800	pull --rebase: checkout 0616613104b7018b42250a4877abcf7261a7b76f
+0616613104b7018b42250a4877abcf7261a7b76f 0616613104b7018b42250a4877abcf7261a7b76f wujinfeng <wujinfeng@bbktel.com> 1577162673 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+0616613104b7018b42250a4877abcf7261a7b76f 59c4c557300df0092ff7e3be6e718b1e08bd4efe wujinfeng <wujinfeng@bbktel.com> 1577162756 +0800	reset: moving to 59c4c557300df0092ff7e3be6e718b1e08bd4efe
+59c4c557300df0092ff7e3be6e718b1e08bd4efe 03e2c21e9d6c548a9257ddced4c7a292c06cd694 wujinfeng <wujinfeng@bbktel.com> 1577162791 +0800	cherry-pick: opimize video album logics
+03e2c21e9d6c548a9257ddced4c7a292c06cd694 0616613104b7018b42250a4877abcf7261a7b76f wujinfeng <wujinfeng@bbktel.com> 1577162946 +0800	pull --rebase: checkout 0616613104b7018b42250a4877abcf7261a7b76f
+0616613104b7018b42250a4877abcf7261a7b76f 3154b340bdd211a6cc1d54d1ffbc5a64a7e8981a wujinfeng <wujinfeng@bbktel.com> 1577162946 +0800	pull --rebase: opimize video album logics
+3154b340bdd211a6cc1d54d1ffbc5a64a7e8981a 3154b340bdd211a6cc1d54d1ffbc5a64a7e8981a wujinfeng <wujinfeng@bbktel.com> 1577162949 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+3154b340bdd211a6cc1d54d1ffbc5a64a7e8981a 137ebf8bfbc0ecf647db9df20fafe2ac7f592640 wujinfeng <wujinfeng@bbktel.com> 1577163239 +0800	checkout: moving from vivo_webview_trunk to vivo_webview_feature_online_settings
+137ebf8bfbc0ecf647db9df20fafe2ac7f592640 0616613104b7018b42250a4877abcf7261a7b76f wujinfeng <wujinfeng@bbktel.com> 1577163267 +0800	checkout: moving from vivo_webview_feature_online_settings to vivo_webview_trunk
+0616613104b7018b42250a4877abcf7261a7b76f 59c4c557300df0092ff7e3be6e718b1e08bd4efe wujinfeng <wujinfeng@bbktel.com> 1577170282 +0800	reset: moving to 59c4c557300df0092ff7e3be6e718b1e08bd4efe
+59c4c557300df0092ff7e3be6e718b1e08bd4efe 1cdb20f6ba2bf818df652722758a6be24f0d1057 wujinfeng <wujinfeng@bbktel.com> 1577170349 +0800	cherry-pick: opimize video album logics
+1cdb20f6ba2bf818df652722758a6be24f0d1057 1f40579d58f378a5e8d1350510c90a674f9756dd wujinfeng <wujinfeng@bbktel.com> 1577237891 +0800	am: enable video album paster ads
+1f40579d58f378a5e8d1350510c90a674f9756dd 7caaa67bc78d423a8ad99ddc5dca005d6a79da9a wujinfeng <wujinfeng@bbktel.com> 1577245211 +0800	commit (amend): enable video album paster ads
+7caaa67bc78d423a8ad99ddc5dca005d6a79da9a 1c9a86650d0938a67b1e8e6ded2f6978a7f26a9f wujinfeng <wujinfeng@bbktel.com> 1577245345 +0800	checkout: moving from vivo_webview_trunk to vivo_webview_release_2.23.1
+1c9a86650d0938a67b1e8e6ded2f6978a7f26a9f 82959fe89446378138afd38acb540c8407ca5987 wujinfeng <wujinfeng@bbktel.com> 1577245357 +0800	cherry-pick: opimize video album logics
+82959fe89446378138afd38acb540c8407ca5987 2dc2486b95baeb7d1c2592129a2ccc4c8eec1f01 wujinfeng <wujinfeng@bbktel.com> 1577245373 +0800	cherry-pick: enable video album paster ads
+2dc2486b95baeb7d1c2592129a2ccc4c8eec1f01 cd4b72d3748b8bfca939bcd76c58af416d8be25f wujinfeng <wujinfeng@bbktel.com> 1577334789 +0800	commit (amend): enable video album paster ads
+cd4b72d3748b8bfca939bcd76c58af416d8be25f 986614a4afedc6f038b773408907a9ff879e7beb wujinfeng <wujinfeng@bbktel.com> 1577948640 +0800	commit (amend): enable video album paster ads
+986614a4afedc6f038b773408907a9ff879e7beb 6c5b77b4f28767aca2070acb38a116dfee99936d wujinfeng <wujinfeng@bbktel.com> 1577949423 +0800	commit (amend): enable video album paster ads
+6c5b77b4f28767aca2070acb38a116dfee99936d 7b7b6ef9854938c07c3fae5f43ffd80eabbb13c9 wujinfeng <wujinfeng@bbktel.com> 1577954687 +0800	commit (amend): enable video album paster ads
+7b7b6ef9854938c07c3fae5f43ffd80eabbb13c9 0f05384b9f5cb6962c46446940cdefff71797678 wujinfeng <wujinfeng@bbktel.com> 1577954845 +0800	commit (amend): enable video album paster ads
+0f05384b9f5cb6962c46446940cdefff71797678 ecaf78a58dc8a5378595cdaaf38f618586dbce67 wujinfeng <wujinfeng@bbktel.com> 1577954915 +0800	commit: add logs to album paster ads feature
+ecaf78a58dc8a5378595cdaaf38f618586dbce67 f0efdc8e5ce2309dbc02f7c1bdd4b929a47ccc2e wujinfeng <wujinfeng@bbktel.com> 1577955874 +0800	commit (amend): add logs to album paster ads feature
+f0efdc8e5ce2309dbc02f7c1bdd4b929a47ccc2e ece85849ae29079ce9a957530bd54aae6788a438 wujinfeng <wujinfeng@bbktel.com> 1577956041 +0800	commit (amend): add logs to album paster ads feature
+ece85849ae29079ce9a957530bd54aae6788a438 bb1d738ce0e640da9e8fa2aa0fd35db4559f7c08 wujinfeng <wujinfeng@bbktel.com> 1577956259 +0800	commit (amend): add logs to album paster ads feature
+bb1d738ce0e640da9e8fa2aa0fd35db4559f7c08 e93be47220c79f290f96d73c50dd2cf4a9fe3e76 wujinfeng <wujinfeng@bbktel.com> 1577956829 +0800	commit (amend): add logs to album paster ads feature
+e93be47220c79f290f96d73c50dd2cf4a9fe3e76 0f05384b9f5cb6962c46446940cdefff71797678 wujinfeng <wujinfeng@bbktel.com> 1577956946 +0800	reset: moving to 0f05384b9f5cb6962c46446940cdefff71797678
+0f05384b9f5cb6962c46446940cdefff71797678 922ede336b4375ca879416374d2b046a960954a9 wujinfeng <wujinfeng@bbktel.com> 1577957090 +0800	commit (amend): enable video album paster ads
+922ede336b4375ca879416374d2b046a960954a9 63e71d5599d2b5f51eea8fbed330203f0db24c33 wujinfeng <wujinfeng@bbktel.com> 1577957339 +0800	am: add logs to album paster ads feature
+63e71d5599d2b5f51eea8fbed330203f0db24c33 9bb8ca27cf285d7063346764dd1404b7b69dabce wujinfeng <wujinfeng@bbktel.com> 1577957765 +0800	commit (amend): add logs to album paster ads feature
+9bb8ca27cf285d7063346764dd1404b7b69dabce 922ede336b4375ca879416374d2b046a960954a9 wujinfeng <wujinfeng@bbktel.com> 1577957803 +0800	reset: moving to 922ede336b4375ca879416374d2b046a960954a9
+922ede336b4375ca879416374d2b046a960954a9 e80d67839a1706fdc37b9cbfccc3e5094ccf3d0f wujinfeng <wujinfeng@bbktel.com> 1577959099 +0800	commit (amend): enable video album paster ads
+e80d67839a1706fdc37b9cbfccc3e5094ccf3d0f 315a7ef1a6e5eceefad0bf403df982981369f4c9 wujinfeng <wujinfeng@bbktel.com> 1577959244 +0800	am: add logs to album paster ads feature
+315a7ef1a6e5eceefad0bf403df982981369f4c9 f928a158f3a13284ba55183a6f3b9063852560f5 wujinfeng <wujinfeng@bbktel.com> 1577966071 +0800	pull --rebase: checkout f928a158f3a13284ba55183a6f3b9063852560f5
+f928a158f3a13284ba55183a6f3b9063852560f5 99864b7678b712345ef57d476fa189f8aecf4559 wujinfeng <wujinfeng@bbktel.com> 1577966071 +0800	pull --rebase: opimize video album logics
+99864b7678b712345ef57d476fa189f8aecf4559 e9080838acf3052ba317aa6ccf5e28898895b4e0 wujinfeng <wujinfeng@bbktel.com> 1577966071 +0800	pull --rebase: enable video album paster ads
+e9080838acf3052ba317aa6ccf5e28898895b4e0 5073665ffc266b3d7b482066c652c028e2ef0f9b wujinfeng <wujinfeng@bbktel.com> 1577966071 +0800	pull --rebase: add logs to album paster ads feature
+5073665ffc266b3d7b482066c652c028e2ef0f9b 5073665ffc266b3d7b482066c652c028e2ef0f9b wujinfeng <wujinfeng@bbktel.com> 1577966079 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.23.1
+5073665ffc266b3d7b482066c652c028e2ef0f9b e9080838acf3052ba317aa6ccf5e28898895b4e0 wujinfeng <wujinfeng@bbktel.com> 1578023207 +0800	reset: moving to e9080838acf3052ba317aa6ccf5e28898895b4e0
+e9080838acf3052ba317aa6ccf5e28898895b4e0 fd345fa3bda7370e8440ccdecbd9ae67ca132ed0 wujinfeng <wujinfeng@bbktel.com> 1578023551 +0800	commit (amend): enable video album paster ads
+fd345fa3bda7370e8440ccdecbd9ae67ca132ed0 57b9e999e48373f1c4155ed128cb12f17f27f7c7 wujinfeng <wujinfeng@bbktel.com> 1578028951 +0800	commit: fix video album paster ads seek issues
+57b9e999e48373f1c4155ed128cb12f17f27f7c7 fd345fa3bda7370e8440ccdecbd9ae67ca132ed0 wujinfeng <wujinfeng@bbktel.com> 1578028985 +0800	reset: moving to fd345fa3bda7370e8440ccdecbd9ae67ca132ed0
+fd345fa3bda7370e8440ccdecbd9ae67ca132ed0 7324cc3dbdc26b1e03d78de1402cfb3954bd4d6c wujinfeng <wujinfeng@bbktel.com> 1578030218 +0800	commit (amend): enable video album paster ads
+7324cc3dbdc26b1e03d78de1402cfb3954bd4d6c cfd680b7075f19dbcf50f41ba02edfda30127353 wujinfeng <wujinfeng@bbktel.com> 1578030524 +0800	am: add logs to album paster ads feature
+cfd680b7075f19dbcf50f41ba02edfda30127353 7324cc3dbdc26b1e03d78de1402cfb3954bd4d6c wujinfeng <wujinfeng@bbktel.com> 1578030570 +0800	reset: moving to 7324cc3dbdc26b1e03d78de1402cfb3954bd4d6c
+7324cc3dbdc26b1e03d78de1402cfb3954bd4d6c a7979b3e22200b968e8a4ec746b8b56299fe8dae wujinfeng <wujinfeng@bbktel.com> 1578030628 +0800	commit (amend): enable video album paster ads
+a7979b3e22200b968e8a4ec746b8b56299fe8dae 837f37150bb4d9fd02d6c313551d93bfd11eb290 wujinfeng <wujinfeng@bbktel.com> 1578030748 +0800	am: add logs to album paster ads feature
+837f37150bb4d9fd02d6c313551d93bfd11eb290 4df11521175dc8d6751276ab27fce8ac8a6dd4b9 wujinfeng <wujinfeng@bbktel.com> 1578030825 +0800	am: fix video album paster ads seek issues
+4df11521175dc8d6751276ab27fce8ac8a6dd4b9 a7979b3e22200b968e8a4ec746b8b56299fe8dae wujinfeng <wujinfeng@bbktel.com> 1578052026 +0800	reset: moving to a7979b3e22200b968e8a4ec746b8b56299fe8dae
+a7979b3e22200b968e8a4ec746b8b56299fe8dae 99864b7678b712345ef57d476fa189f8aecf4559 wujinfeng <wujinfeng@bbktel.com> 1578052050 +0800	reset: moving to 99864b7678b712345ef57d476fa189f8aecf4559
+99864b7678b712345ef57d476fa189f8aecf4559 9fdf7a7ee3e9aec964cadc30fce15e0cc19ef9bf wujinfeng <wujinfeng@bbktel.com> 1578052071 +0800	commit (amend): opimize video album logics
+9fdf7a7ee3e9aec964cadc30fce15e0cc19ef9bf f928a158f3a13284ba55183a6f3b9063852560f5 wujinfeng <wujinfeng@bbktel.com> 1578052113 +0800	reset: moving to f928a158f3a13284ba55183a6f3b9063852560f5
+f928a158f3a13284ba55183a6f3b9063852560f5 51e0d38c4d94750cdcf6d40e2a5b2d9e298d4e0a wujinfeng <wujinfeng@bbktel.com> 1578052527 +0800	commit: album paster ads
+51e0d38c4d94750cdcf6d40e2a5b2d9e298d4e0a e1158948a13e6509663314f0e3d2f8ae050dd4c6 wujinfeng <wujinfeng@bbktel.com> 1578055896 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+e1158948a13e6509663314f0e3d2f8ae050dd4c6 f928a158f3a13284ba55183a6f3b9063852560f5 wujinfeng <wujinfeng@bbktel.com> 1578057162 +0800	reset: moving to f928a158f3a13284ba55183a6f3b9063852560f5
+f928a158f3a13284ba55183a6f3b9063852560f5 3c65515d278b0da6f5e4c6f2d6d0b420ce3cc223 wujinfeng <wujinfeng@bbktel.com> 1578057266 +0800	am: opimize video album logics
+3c65515d278b0da6f5e4c6f2d6d0b420ce3cc223 e4e6d3831bcc02261c85f26271f6917ea391ecb4 wujinfeng <wujinfeng@bbktel.com> 1578057318 +0800	am: enable video album paster ads
+e4e6d3831bcc02261c85f26271f6917ea391ecb4 484a37932620c8faffaaa6d634c747ffeb7eae98 wujinfeng <wujinfeng@bbktel.com> 1578057964 +0800	am: add logs to album paster ads feature
+484a37932620c8faffaaa6d634c747ffeb7eae98 e4e6d3831bcc02261c85f26271f6917ea391ecb4 wujinfeng <wujinfeng@bbktel.com> 1578058677 +0800	reset: moving to e4e6d3831bcc02261c85f26271f6917ea391ecb4
+e4e6d3831bcc02261c85f26271f6917ea391ecb4 213d31c9b8353249b957291110274b71bf2880e1 wujinfeng <wujinfeng@bbktel.com> 1578059186 +0800	commit (amend): enable video album paster ads
+213d31c9b8353249b957291110274b71bf2880e1 9c284c4f76522461618c70420658b817adabaeb0 wujinfeng <wujinfeng@bbktel.com> 1578059385 +0800	am: add logs to album paster ads feature
+9c284c4f76522461618c70420658b817adabaeb0 213d31c9b8353249b957291110274b71bf2880e1 wujinfeng <wujinfeng@bbktel.com> 1578059504 +0800	reset: moving to 213d31c9b8353249b957291110274b71bf2880e1
+213d31c9b8353249b957291110274b71bf2880e1 f928a158f3a13284ba55183a6f3b9063852560f5 wujinfeng <wujinfeng@bbktel.com> 1578059532 +0800	reset: moving to f928a158f3a13284ba55183a6f3b9063852560f5
+f928a158f3a13284ba55183a6f3b9063852560f5 bc4a7dfd78e49060f2ce84cc7865704f9b343500 wujinfeng <wujinfeng@bbktel.com> 1578059668 +0800	am: 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+bc4a7dfd78e49060f2ce84cc7865704f9b343500 4ca6e28effded18635c2b5c1383e22ba8c73fe34 wujinfeng <wujinfeng@bbktel.com> 1578123957 +0800	am: add logs to album paster ads feature
+4ca6e28effded18635c2b5c1383e22ba8c73fe34 bc4a7dfd78e49060f2ce84cc7865704f9b343500 wujinfeng <wujinfeng@bbktel.com> 1578276553 +0800	reset: moving to bc4a7dfd78e49060f2ce84cc7865704f9b343500
+bc4a7dfd78e49060f2ce84cc7865704f9b343500 f928a158f3a13284ba55183a6f3b9063852560f5 wujinfeng <wujinfeng@bbktel.com> 1578279796 +0800	reset: moving to f928a158f3a13284ba55183a6f3b9063852560f5
+f928a158f3a13284ba55183a6f3b9063852560f5 3d94aada357369060cec97ad2bd81acbcf92ea13 wujinfeng <wujinfeng@bbktel.com> 1578281497 +0800	am: 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+3d94aada357369060cec97ad2bd81acbcf92ea13 7edc6447f58728f02f8644eb4c2e39262a708fbd wujinfeng <wujinfeng@bbktel.com> 1578301635 +0800	am: add logs to album paster ads feature
+7edc6447f58728f02f8644eb4c2e39262a708fbd 3d94aada357369060cec97ad2bd81acbcf92ea13 wujinfeng <wujinfeng@bbktel.com> 1578380351 +0800	reset: moving to 3d94aada357369060cec97ad2bd81acbcf92ea13
+3d94aada357369060cec97ad2bd81acbcf92ea13 fdff6ae16822f8926cbf3f9552d6af18aa4ea4e7 wujinfeng <wujinfeng@bbktel.com> 1578380403 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+fdff6ae16822f8926cbf3f9552d6af18aa4ea4e7 979e3b7a08df6ae3644eef914678b47acd111952 wujinfeng <wujinfeng@bbktel.com> 1578380456 +0800	am: add logs to album paster ads feature
+979e3b7a08df6ae3644eef914678b47acd111952 63b725ff07d2e50d242bfb23669407882b796dca wujinfeng <wujinfeng@bbktel.com> 1578404316 +0800	commit (amend): add logs to album paster ads feature
+63b725ff07d2e50d242bfb23669407882b796dca 94d7aa816bb525816dbd143e5bef23c2e0e36a8d wujinfeng <wujinfeng@bbktel.com> 1578820163 +0800	commit: add video paster ads pause logic
+94d7aa816bb525816dbd143e5bef23c2e0e36a8d fdff6ae16822f8926cbf3f9552d6af18aa4ea4e7 wujinfeng <wujinfeng@bbktel.com> 1578820195 +0800	reset: moving to fdff6ae16822f8926cbf3f9552d6af18aa4ea4e7
+fdff6ae16822f8926cbf3f9552d6af18aa4ea4e7 a03f1fbf70407e6cdcf3f07a4f37503890bc900b wujinfeng <wujinfeng@bbktel.com> 1578824233 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+a03f1fbf70407e6cdcf3f07a4f37503890bc900b 8fb331e64e498766d2ef79457a7e770a77b8a5ca wujinfeng <wujinfeng@bbktel.com> 1578824559 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+8fb331e64e498766d2ef79457a7e770a77b8a5ca d96a3dbd250259e9a84bbabd22fda019c85b60fb wujinfeng <wujinfeng@bbktel.com> 1578879327 +0800	am: fix video album paster ads seek issues
+d96a3dbd250259e9a84bbabd22fda019c85b60fb 8fb331e64e498766d2ef79457a7e770a77b8a5ca wujinfeng <wujinfeng@bbktel.com> 1578879372 +0800	reset: moving to 8fb331e64e498766d2ef79457a7e770a77b8a5ca
+8fb331e64e498766d2ef79457a7e770a77b8a5ca 7a9a6d64d551e254ce36cd5b0823e8f61013a6a7 wujinfeng <wujinfeng@bbktel.com> 1578881037 +0800	am: add logs to album paster ads feature
+7a9a6d64d551e254ce36cd5b0823e8f61013a6a7 8fb331e64e498766d2ef79457a7e770a77b8a5ca wujinfeng <wujinfeng@bbktel.com> 1578894763 +0800	reset: moving to 8fb331e64e498766d2ef79457a7e770a77b8a5ca
+8fb331e64e498766d2ef79457a7e770a77b8a5ca fa7ab9070ec7e8aed1235aa94656ffdc0ae7b59a wujinfeng <wujinfeng@bbktel.com> 1578895027 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+fa7ab9070ec7e8aed1235aa94656ffdc0ae7b59a 7af0b850ff2c8a50b137564423e827ff2abc92d4 wujinfeng <wujinfeng@bbktel.com> 1578895147 +0800	am: add logs to album paster ads feature
+7af0b850ff2c8a50b137564423e827ff2abc92d4 fa7ab9070ec7e8aed1235aa94656ffdc0ae7b59a wujinfeng <wujinfeng@bbktel.com> 1578897971 +0800	reset: moving to fa7ab9070ec7e8aed1235aa94656ffdc0ae7b59a
+fa7ab9070ec7e8aed1235aa94656ffdc0ae7b59a 8b93563c2e559d17584eecb843896df03f3027d2 wujinfeng <wujinfeng@bbktel.com> 1578897983 +0800	am: fix video album paster ads seek issues
+8b93563c2e559d17584eecb843896df03f3027d2 8852ef269666374237e1617ddf82abd38f544d20 wujinfeng <wujinfeng@bbktel.com> 1579006011 +0800	commit: fix video album paster ads seek issues 2
+8852ef269666374237e1617ddf82abd38f544d20 8b93563c2e559d17584eecb843896df03f3027d2 wujinfeng <wujinfeng@bbktel.com> 1579006059 +0800	reset: moving to 8b93563c2e559d17584eecb843896df03f3027d2
+8b93563c2e559d17584eecb843896df03f3027d2 f04ce20e3335fe41e96cbfb6bda0fe4b3605ac33 wujinfeng <wujinfeng@bbktel.com> 1579007350 +0800	am: fix video album paster ads seek issues 2
+f04ce20e3335fe41e96cbfb6bda0fe4b3605ac33 8b93563c2e559d17584eecb843896df03f3027d2 wujinfeng <wujinfeng@bbktel.com> 1579008921 +0800	reset: moving to 8b93563c2e559d17584eecb843896df03f3027d2
+8b93563c2e559d17584eecb843896df03f3027d2 e9fe887b8da1e57d1c09b3e3b30403a31479f74e wujinfeng <wujinfeng@bbktel.com> 1579009085 +0800	commit (amend): fix video album paster ads seek issues
+e9fe887b8da1e57d1c09b3e3b30403a31479f74e c5dec1ab5a14cce6e7020a0e2fbeeb093a11882e wujinfeng <wujinfeng@bbktel.com> 1579009347 +0800	commit (amend): fix video album paster ads seek issues
+c5dec1ab5a14cce6e7020a0e2fbeeb093a11882e fa7ab9070ec7e8aed1235aa94656ffdc0ae7b59a wujinfeng <wujinfeng@bbktel.com> 1579009372 +0800	reset: moving to fa7ab9070ec7e8aed1235aa94656ffdc0ae7b59a
+fa7ab9070ec7e8aed1235aa94656ffdc0ae7b59a 4f1a16b39fdcd8e325fdd00543d465b9e6f46eea wujinfeng <wujinfeng@bbktel.com> 1579009450 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+4f1a16b39fdcd8e325fdd00543d465b9e6f46eea e50070ec610c23dbb03b9cf0350e6f9dcf11c566 wujinfeng <wujinfeng@bbktel.com> 1579009893 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+e50070ec610c23dbb03b9cf0350e6f9dcf11c566 b68c47e821582cd943c154256de293a33752824e wujinfeng <wujinfeng@bbktel.com> 1579010157 +0800	am: add logs to album paster ads feature
+b68c47e821582cd943c154256de293a33752824e e50070ec610c23dbb03b9cf0350e6f9dcf11c566 wujinfeng <wujinfeng@bbktel.com> 1579088158 +0800	reset: moving to e50070ec610c23dbb03b9cf0350e6f9dcf11c566
+e50070ec610c23dbb03b9cf0350e6f9dcf11c566 dd96ea50d2ab18d0a20a35050456977b0581db1e wujinfeng <wujinfeng@bbktel.com> 1579088374 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+dd96ea50d2ab18d0a20a35050456977b0581db1e 67fd33a8b4d6dcabffe30af7957e09753c447629 wujinfeng <wujinfeng@bbktel.com> 1579088432 +0800	am: add logs to album paster ads feature
+67fd33a8b4d6dcabffe30af7957e09753c447629 dd96ea50d2ab18d0a20a35050456977b0581db1e wujinfeng <wujinfeng@bbktel.com> 1579158912 +0800	reset: moving to dd96ea50d2ab18d0a20a35050456977b0581db1e
+dd96ea50d2ab18d0a20a35050456977b0581db1e 9f220887f815dc1850b0c8083831017e8b18abe2 wujinfeng <wujinfeng@bbktel.com> 1579158968 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+9f220887f815dc1850b0c8083831017e8b18abe2 4912618537321b25e888bf41975ba05de4ee0efe wujinfeng <wujinfeng@bbktel.com> 1579159010 +0800	am: add logs to album paster ads feature
+4912618537321b25e888bf41975ba05de4ee0efe 403a8308e13fa13b038bd36922ba27492b8853e7 wujinfeng <wujinfeng@bbktel.com> 1579247254 +0800	commit (amend): add logs to album paster ads feature
+403a8308e13fa13b038bd36922ba27492b8853e7 f5491f1b123f277ccea716fa4064104be8d2e7fd wujinfeng <wujinfeng@bbktel.com> 1579247337 +0800	pull --rebase: checkout f5491f1b123f277ccea716fa4064104be8d2e7fd
+f5491f1b123f277ccea716fa4064104be8d2e7fd 543db25f3227fea7da691d28381e61e3ac131740 wujinfeng <wujinfeng@bbktel.com> 1579247337 +0800	pull --rebase: 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+543db25f3227fea7da691d28381e61e3ac131740 bd974710f65746d2f79980229169989141af10e0 wujinfeng <wujinfeng@bbktel.com> 1579247337 +0800	pull --rebase: add logs to album paster ads feature
+bd974710f65746d2f79980229169989141af10e0 bd974710f65746d2f79980229169989141af10e0 wujinfeng <wujinfeng@bbktel.com> 1579247342 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.23.1
+bd974710f65746d2f79980229169989141af10e0 543db25f3227fea7da691d28381e61e3ac131740 wujinfeng <wujinfeng@bbktel.com> 1579266770 +0800	reset: moving to 543db25f3227fea7da691d28381e61e3ac131740
+543db25f3227fea7da691d28381e61e3ac131740 423fe7a81427daeca5dc7013499792d951731df4 wujinfeng <wujinfeng@bbktel.com> 1579266964 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+423fe7a81427daeca5dc7013499792d951731df4 40263070354caaad01197f74a45064619a4d0bce wujinfeng <wujinfeng@bbktel.com> 1579267348 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+40263070354caaad01197f74a45064619a4d0bce 341a5bde0b0562fc031c51424d6a84994ec5ec2e wujinfeng <wujinfeng@bbktel.com> 1579267902 +0800	am: add logs to album paster ads feature
+341a5bde0b0562fc031c51424d6a84994ec5ec2e 40263070354caaad01197f74a45064619a4d0bce wujinfeng <wujinfeng@bbktel.com> 1579267926 +0800	reset: moving to 40263070354caaad01197f74a45064619a4d0bce
+40263070354caaad01197f74a45064619a4d0bce 67d13531fb989071d0c880fe6345d627a58213dc wujinfeng <wujinfeng@bbktel.com> 1579267950 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+67d13531fb989071d0c880fe6345d627a58213dc 381266bbee5d1d7e1515a17933ca10a7a5df99ce wujinfeng <wujinfeng@bbktel.com> 1579268022 +0800	am: add logs to album paster ads feature
+381266bbee5d1d7e1515a17933ca10a7a5df99ce 67d13531fb989071d0c880fe6345d627a58213dc wujinfeng <wujinfeng@bbktel.com> 1579312270 +0800	reset: moving to 67d13531fb989071d0c880fe6345d627a58213dc
+67d13531fb989071d0c880fe6345d627a58213dc 5a32cd18be62dbe801e2b3642cff29227762fd5f wujinfeng <wujinfeng@bbktel.com> 1579314134 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+5a32cd18be62dbe801e2b3642cff29227762fd5f b570b2a012aca3eea82b684dbefd5635e19cc430 wujinfeng <wujinfeng@bbktel.com> 1579315615 +0800	am: add logs to album paster ads feature
+b570b2a012aca3eea82b684dbefd5635e19cc430 0fea96537c0b12a3703313371486cca17e82a75a wujinfeng <wujinfeng@bbktel.com> 1581305556 +0800	commit (amend): add logs to album paster ads feature
+0fea96537c0b12a3703313371486cca17e82a75a 5a32cd18be62dbe801e2b3642cff29227762fd5f wujinfeng <wujinfeng@bbktel.com> 1581305855 +0800	reset: moving to 5a32cd18be62dbe801e2b3642cff29227762fd5f
+5a32cd18be62dbe801e2b3642cff29227762fd5f 57a4b29727b61a5175aa5e388a6e4ef1832d7a26 wujinfeng <wujinfeng@bbktel.com> 1581306150 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+57a4b29727b61a5175aa5e388a6e4ef1832d7a26 d884b3019472d2d6677639bb9f5f1c6630e75260 wujinfeng <wujinfeng@bbktel.com> 1581307256 +0800	am: add logs to album paster ads feature
+d884b3019472d2d6677639bb9f5f1c6630e75260 a5631b93ea361d0da1234dd9516420f35e66d947 wujinfeng <wujinfeng@bbktel.com> 1581414199 +0800	commit: fix video album paster ads invalid video url problem
+a5631b93ea361d0da1234dd9516420f35e66d947 d4ea523daf53660ec67f7120def1a6457364cab0 wujinfeng <wujinfeng@bbktel.com> 1581940332 +0800	commit (amend): fix video album paster ads invalid video url problem
+d4ea523daf53660ec67f7120def1a6457364cab0 d84db1888fd920bcef8ece9ef7f4071ab29ea174 wujinfeng <wujinfeng@bbktel.com> 1581941879 +0800	commit (amend): fix video album paster ads invalid video url problem
+d84db1888fd920bcef8ece9ef7f4071ab29ea174 57a4b29727b61a5175aa5e388a6e4ef1832d7a26 wujinfeng <wujinfeng@bbktel.com> 1581942540 +0800	reset: moving to 57a4b29727b61a5175aa5e388a6e4ef1832d7a26
+57a4b29727b61a5175aa5e388a6e4ef1832d7a26 f937b0eb4f9e49994dc851ecbcfc2ab589871a6b wujinfeng <wujinfeng@bbktel.com> 1581943333 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+f937b0eb4f9e49994dc851ecbcfc2ab589871a6b a9ebfd07b8ae2d70e7162ccc8c445b8549f6c912 wujinfeng <wujinfeng@bbktel.com> 1581943964 +0800	am: add logs to album paster ads feature
+a9ebfd07b8ae2d70e7162ccc8c445b8549f6c912 46be3115086c9bc10ed6e57d90f84a98ee958789 wujinfeng <wujinfeng@bbktel.com> 1581944086 +0800	commit (amend): add logs to album paster ads feature
+46be3115086c9bc10ed6e57d90f84a98ee958789 dcf3f7d6663812f1538f0c33025ce55b4571337a wujinfeng <wujinfeng@bbktel.com> 1581944560 +0800	commit (amend): add logs to album paster ads feature
+dcf3f7d6663812f1538f0c33025ce55b4571337a dcf3f7d6663812f1538f0c33025ce55b4571337a wujinfeng <wujinfeng@bbktel.com> 1581949247 +0800	checkout: moving from vivo_webview_release_2.23.1 to vivo_webview_release_2.23.1_tmp
+dcf3f7d6663812f1538f0c33025ce55b4571337a dcf3f7d6663812f1538f0c33025ce55b4571337a wujinfeng <wujinfeng@bbktel.com> 1581949266 +0800	checkout: moving from vivo_webview_release_2.23.1_tmp to vivo_webview_release_2.23.1
+dcf3f7d6663812f1538f0c33025ce55b4571337a f937b0eb4f9e49994dc851ecbcfc2ab589871a6b wujinfeng <wujinfeng@bbktel.com> 1582004406 +0800	reset: moving to f937b0eb4f9e49994dc851ecbcfc2ab589871a6b
+f937b0eb4f9e49994dc851ecbcfc2ab589871a6b 79d60a8caa57b3507b1f63934909a115b5925d1d wujinfeng <wujinfeng@bbktel.com> 1582004716 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+79d60a8caa57b3507b1f63934909a115b5925d1d 6aec2cb823ebf5fe0e7cf430188d1b3d87b1deff wujinfeng <wujinfeng@bbktel.com> 1582005917 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+6aec2cb823ebf5fe0e7cf430188d1b3d87b1deff 5e902e3bd91013f04e65a25092c08ccca906ffb2 wujinfeng <wujinfeng@bbktel.com> 1582006319 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+5e902e3bd91013f04e65a25092c08ccca906ffb2 9e2a544027e987b1fd62162d4d66a865fb17dab9 wujinfeng <wujinfeng@bbktel.com> 1582006545 +0800	am: add logs to album paster ads feature
+9e2a544027e987b1fd62162d4d66a865fb17dab9 2affb2eb91fbb33b6f2117b980e1f97e96af7ff4 wujinfeng <wujinfeng@bbktel.com> 1582006942 +0800	commit (amend): add logs to album paster ads feature
+2affb2eb91fbb33b6f2117b980e1f97e96af7ff4 5e902e3bd91013f04e65a25092c08ccca906ffb2 wujinfeng <wujinfeng@bbktel.com> 1582007109 +0800	reset: moving to 5e902e3bd91013f04e65a25092c08ccca906ffb2
+5e902e3bd91013f04e65a25092c08ccca906ffb2 501f521c2dda195e5d8ff13e84e52a9617ffa220 wujinfeng <wujinfeng@bbktel.com> 1582007176 +0800	am: add logs to album paster ads feature
+501f521c2dda195e5d8ff13e84e52a9617ffa220 5e902e3bd91013f04e65a25092c08ccca906ffb2 wujinfeng <wujinfeng@bbktel.com> 1582022246 +0800	reset: moving to 5e902e3bd91013f04e65a25092c08ccca906ffb2
+5e902e3bd91013f04e65a25092c08ccca906ffb2 6c9f2b0158259227e84480534be81f4a4a2af31c wujinfeng <wujinfeng@bbktel.com> 1582024799 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+6c9f2b0158259227e84480534be81f4a4a2af31c b20b8892b7d9d8eb9f1621491f55e7ea37aa27a1 wujinfeng <wujinfeng@bbktel.com> 1582024863 +0800	am: add logs to album paster ads feature
+b20b8892b7d9d8eb9f1621491f55e7ea37aa27a1 6c9f2b0158259227e84480534be81f4a4a2af31c wujinfeng <wujinfeng@bbktel.com> 1582031752 +0800	reset: moving to 6c9f2b0158259227e84480534be81f4a4a2af31c
+6c9f2b0158259227e84480534be81f4a4a2af31c 60fd329d20146492373fa106753fd5ed82b15727 wujinfeng <wujinfeng@bbktel.com> 1582032288 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+60fd329d20146492373fa106753fd5ed82b15727 09aeb8f24c4d2e4e55979cfb220c373fa9b9467f wujinfeng <wujinfeng@bbktel.com> 1582032359 +0800	am: add logs to album paster ads feature
+09aeb8f24c4d2e4e55979cfb220c373fa9b9467f 60fd329d20146492373fa106753fd5ed82b15727 wujinfeng <wujinfeng@bbktel.com> 1582032817 +0800	reset: moving to 60fd329d20146492373fa106753fd5ed82b15727
+60fd329d20146492373fa106753fd5ed82b15727 7d21784b27832a8ee1dc9c7ed875b5d6e97f3c40 wujinfeng <wujinfeng@bbktel.com> 1582033125 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+7d21784b27832a8ee1dc9c7ed875b5d6e97f3c40 ff027f63c387192864769eefbb76bcc069c21747 wujinfeng <wujinfeng@bbktel.com> 1582033197 +0800	am: add logs to album paster ads feature
+ff027f63c387192864769eefbb76bcc069c21747 2742f6866f3978e216fc43ba3a7bd9b5288ccc93 wujinfeng <wujinfeng@bbktel.com> 1582036145 +0800	checkout: moving from vivo_webview_release_2.23.1 to vivo_webview_release_2.24.0
+2742f6866f3978e216fc43ba3a7bd9b5288ccc93 ff027f63c387192864769eefbb76bcc069c21747 wujinfeng <wujinfeng@bbktel.com> 1582036199 +0800	checkout: moving from vivo_webview_release_2.24.0 to vivo_webview_release_2.23.1
+ff027f63c387192864769eefbb76bcc069c21747 2742f6866f3978e216fc43ba3a7bd9b5288ccc93 wujinfeng <wujinfeng@bbktel.com> 1582036287 +0800	checkout: moving from vivo_webview_release_2.23.1 to vivo_webview_release_2.24.0
+2742f6866f3978e216fc43ba3a7bd9b5288ccc93 6ac9d860c842b99bd25ba962e2ac35ef0b2462da wujinfeng <wujinfeng@bbktel.com> 1582036341 +0800	cherry-pick: 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+6ac9d860c842b99bd25ba962e2ac35ef0b2462da ff027f63c387192864769eefbb76bcc069c21747 wujinfeng <wujinfeng@bbktel.com> 1582083323 +0800	checkout: moving from vivo_webview_release_2.24.0 to vivo_webview_release_2.23.1
+ff027f63c387192864769eefbb76bcc069c21747 7d21784b27832a8ee1dc9c7ed875b5d6e97f3c40 wujinfeng <wujinfeng@bbktel.com> 1582106416 +0800	reset: moving to 7d21784b27832a8ee1dc9c7ed875b5d6e97f3c40
+7d21784b27832a8ee1dc9c7ed875b5d6e97f3c40 7644bbdd5a463f0d9caa17c2b5243d8851d2b1d6 wujinfeng <wujinfeng@bbktel.com> 1582106682 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+7644bbdd5a463f0d9caa17c2b5243d8851d2b1d6 9e8ee0e1a45df48ab07ae487bf2c7c1a210ce199 wujinfeng <wujinfeng@bbktel.com> 1582106768 +0800	am: add logs to album paster ads feature
+9e8ee0e1a45df48ab07ae487bf2c7c1a210ce199 7644bbdd5a463f0d9caa17c2b5243d8851d2b1d6 wujinfeng <wujinfeng@bbktel.com> 1582106989 +0800	reset: moving to 7644bbdd5a463f0d9caa17c2b5243d8851d2b1d6
+7644bbdd5a463f0d9caa17c2b5243d8851d2b1d6 685a18fde3fac83175c0157b39357c28c2f29b78 wujinfeng <wujinfeng@bbktel.com> 1582107791 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+685a18fde3fac83175c0157b39357c28c2f29b78 6ac9d860c842b99bd25ba962e2ac35ef0b2462da wujinfeng <wujinfeng@bbktel.com> 1582107846 +0800	checkout: moving from vivo_webview_release_2.23.1 to vivo_webview_release_2.24.0
+6ac9d860c842b99bd25ba962e2ac35ef0b2462da 2742f6866f3978e216fc43ba3a7bd9b5288ccc93 wujinfeng <wujinfeng@bbktel.com> 1582107859 +0800	reset: moving to 2742f6866f3978e216fc43ba3a7bd9b5288ccc93
+2742f6866f3978e216fc43ba3a7bd9b5288ccc93 03874d4779ea5effac60c8336b503c94e3605a92 wujinfeng <wujinfeng@bbktel.com> 1582107871 +0800	pull --rebase: checkout 03874d4779ea5effac60c8336b503c94e3605a92
+03874d4779ea5effac60c8336b503c94e3605a92 03874d4779ea5effac60c8336b503c94e3605a92 wujinfeng <wujinfeng@bbktel.com> 1582107871 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.24.0
+03874d4779ea5effac60c8336b503c94e3605a92 685a18fde3fac83175c0157b39357c28c2f29b78 wujinfeng <wujinfeng@bbktel.com> 1582107923 +0800	checkout: moving from vivo_webview_release_2.24.0 to vivo_webview_release_2.23.1
+685a18fde3fac83175c0157b39357c28c2f29b78 03874d4779ea5effac60c8336b503c94e3605a92 wujinfeng <wujinfeng@bbktel.com> 1582107944 +0800	checkout: moving from vivo_webview_release_2.23.1 to vivo_webview_release_2.24.0
+03874d4779ea5effac60c8336b503c94e3605a92 dbe8806d0be6d3027cd43bbe240f4d46ff1386f1 wujinfeng <wujinfeng@bbktel.com> 1582107955 +0800	cherry-pick: 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+dbe8806d0be6d3027cd43bbe240f4d46ff1386f1 36a612530e28d091fe94b9952427678639e1a74d wujinfeng <wujinfeng@bbktel.com> 1582107968 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+36a612530e28d091fe94b9952427678639e1a74d e0f5b9fd9992f5b6b723c620864c9523c5085dda wujinfeng <wujinfeng@bbktel.com> 1582109855 +0800	checkout: moving from vivo_webview_release_2.24.0 to vivo_webview_apk_release_1.0.0.0
+e0f5b9fd9992f5b6b723c620864c9523c5085dda 36a612530e28d091fe94b9952427678639e1a74d wujinfeng <wujinfeng@bbktel.com> 1582109965 +0800	checkout: moving from vivo_webview_apk_release_1.0.0.0 to vivo_webview_release_2.24.0
+36a612530e28d091fe94b9952427678639e1a74d c57cb68e90a27934b335d0e1c704f8eb97d4a988 wujinfeng <wujinfeng@bbktel.com> 1582109993 +0800	pull --rebase: checkout c57cb68e90a27934b335d0e1c704f8eb97d4a988
+c57cb68e90a27934b335d0e1c704f8eb97d4a988 f67ec5d498629b1163da4f1ed4fa86e7864a2c92 wujinfeng <wujinfeng@bbktel.com> 1582109993 +0800	pull --rebase: 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+f67ec5d498629b1163da4f1ed4fa86e7864a2c92 f67ec5d498629b1163da4f1ed4fa86e7864a2c92 wujinfeng <wujinfeng@bbktel.com> 1582109995 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.24.0
+f67ec5d498629b1163da4f1ed4fa86e7864a2c92 685a18fde3fac83175c0157b39357c28c2f29b78 wujinfeng <wujinfeng@bbktel.com> 1582162494 +0800	checkout: moving from vivo_webview_release_2.24.0 to vivo_webview_release_2.23.1
+685a18fde3fac83175c0157b39357c28c2f29b78 dcf3f7d6663812f1538f0c33025ce55b4571337a wujinfeng <wujinfeng@bbktel.com> 1582162549 +0800	checkout: moving from vivo_webview_release_2.23.1 to vivo_webview_release_2.23.1_tmp
+dcf3f7d6663812f1538f0c33025ce55b4571337a 685a18fde3fac83175c0157b39357c28c2f29b78 wujinfeng <wujinfeng@bbktel.com> 1582162570 +0800	checkout: moving from vivo_webview_release_2.23.1_tmp to vivo_webview_release_2.23.1
+685a18fde3fac83175c0157b39357c28c2f29b78 8b64f98c5c7c342df0ee113f70afb997369fd19d wujinfeng <wujinfeng@bbktel.com> 1582162922 +0800	am: add logs to album paster ads feature
+8b64f98c5c7c342df0ee113f70afb997369fd19d f67ec5d498629b1163da4f1ed4fa86e7864a2c92 wujinfeng <wujinfeng@bbktel.com> 1582163024 +0800	checkout: moving from vivo_webview_release_2.23.1 to vivo_webview_release_2.24.0
+f67ec5d498629b1163da4f1ed4fa86e7864a2c92 f7d7b75f4111f151b9befd062dbf622b67f6060a wujinfeng <wujinfeng@bbktel.com> 1583156895 +0800	checkout: moving from vivo_webview_release_2.24.0 to origin/vivo_webview_release_2.25.0
+f7d7b75f4111f151b9befd062dbf622b67f6060a f7d7b75f4111f151b9befd062dbf622b67f6060a wujinfeng <wujinfeng@bbktel.com> 1583156953 +0800	checkout: moving from f7d7b75f4111f151b9befd062dbf622b67f6060a to vivo_webview_release_2.25.0
+f7d7b75f4111f151b9befd062dbf622b67f6060a 503341be38e1f3f62e77d91363e63f36d10d8162 wujinfeng <wujinfeng@bbktel.com> 1583164838 +0800	commit (cherry-pick): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+503341be38e1f3f62e77d91363e63f36d10d8162 78e90b6142f63ee47f83b03b3c2a6707eaa84b7f wujinfeng <wujinfeng@bbktel.com> 1583164903 +0800	pull --rebase: checkout 78e90b6142f63ee47f83b03b3c2a6707eaa84b7f
+78e90b6142f63ee47f83b03b3c2a6707eaa84b7f 6911fcad4ea0043111cf9495fcb0865a3ac86f4e wujinfeng <wujinfeng@bbktel.com> 1583164904 +0800	pull --rebase: 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+6911fcad4ea0043111cf9495fcb0865a3ac86f4e 6911fcad4ea0043111cf9495fcb0865a3ac86f4e wujinfeng <wujinfeng@bbktel.com> 1583164905 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.25.0
+6911fcad4ea0043111cf9495fcb0865a3ac86f4e fe5b5e8c5a97a7ae95239b80c0b4ffff075d570c wujinfeng <wujinfeng@bbktel.com> 1583192355 +0800	checkout: moving from vivo_webview_release_2.25.0 to vivo_webview_release_2.26.0
+fe5b5e8c5a97a7ae95239b80c0b4ffff075d570c 1905d33d98eca7dd4b980e3c66ae2876eeeb54c6 wujinfeng <wujinfeng@bbktel.com> 1583195983 +0800	commit (cherry-pick): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+1905d33d98eca7dd4b980e3c66ae2876eeeb54c6 66e6d50da263199cd6848380476ed4d7091a1836 wujinfeng <wujinfeng@bbktel.com> 1584427756 +0800	pull --rebase: checkout 66e6d50da263199cd6848380476ed4d7091a1836
+66e6d50da263199cd6848380476ed4d7091a1836 66e6d50da263199cd6848380476ed4d7091a1836 wujinfeng <wujinfeng@bbktel.com> 1584427757 +0800	rebase finished: returning to refs/heads/vivo_webview_release_2.26.0
+66e6d50da263199cd6848380476ed4d7091a1836 943794259c9522facb0ad5148047e6a4799a32c0 wujinfeng <wujinfeng@bbktel.com> 1584427909 +0800	am: add logs to VivoAppEntryTopView class
+943794259c9522facb0ad5148047e6a4799a32c0 7caaa67bc78d423a8ad99ddc5dca005d6a79da9a wujinfeng <wujinfeng@bbktel.com> 1584433552 +0800	checkout: moving from vivo_webview_release_2.26.0 to vivo_webview_trunk
+7caaa67bc78d423a8ad99ddc5dca005d6a79da9a 154b628300267f894e517278d41e4b62e23163c3 wujinfeng <wujinfeng@bbktel.com> 1584433610 +0800	pull --rebase: checkout 154b628300267f894e517278d41e4b62e23163c3
+154b628300267f894e517278d41e4b62e23163c3 7caaa67bc78d423a8ad99ddc5dca005d6a79da9a wujinfeng <wujinfeng@bbktel.com> 1584433644 +0800	rebase: aborting
+7caaa67bc78d423a8ad99ddc5dca005d6a79da9a 59c4c557300df0092ff7e3be6e718b1e08bd4efe wujinfeng <wujinfeng@bbktel.com> 1584433698 +0800	reset: moving to 59c4c557300df0092ff7e3be6e718b1e08bd4efe
+59c4c557300df0092ff7e3be6e718b1e08bd4efe 154b628300267f894e517278d41e4b62e23163c3 wujinfeng <wujinfeng@bbktel.com> 1584433713 +0800	pull --rebase: checkout 154b628300267f894e517278d41e4b62e23163c3
+154b628300267f894e517278d41e4b62e23163c3 154b628300267f894e517278d41e4b62e23163c3 wujinfeng <wujinfeng@bbktel.com> 1584433713 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+154b628300267f894e517278d41e4b62e23163c3 921dd41a06e93a2fc52a59f0a2fee7c5ce36b59c wujinfeng <wujinfeng@bbktel.com> 1584451349 +0800	am: add logs to VivoAppEntryTopView class
+921dd41a06e93a2fc52a59f0a2fee7c5ce36b59c 154b628300267f894e517278d41e4b62e23163c3 wujinfeng <wujinfeng@bbktel.com> 1584517829 +0800	reset: moving to 154b628300267f894e517278d41e4b62e23163c3
+154b628300267f894e517278d41e4b62e23163c3 6f5c496a05789d7f7cd484f63a5ff15fcc5c4541 wujinfeng <wujinfeng@bbktel.com> 1584518028 +0800	am: add logs to VivoAppEntryTopView class
+6f5c496a05789d7f7cd484f63a5ff15fcc5c4541 154b628300267f894e517278d41e4b62e23163c3 wujinfeng <wujinfeng@bbktel.com> 1585059876 +0800	reset: moving to 154b628300267f894e517278d41e4b62e23163c3
+154b628300267f894e517278d41e4b62e23163c3 008dffa9460129de024b3bc6e47e7c889ba8f99a wujinfeng <wujinfeng@bbktel.com> 1585059894 +0800	pull --rebase: checkout 008dffa9460129de024b3bc6e47e7c889ba8f99a
+008dffa9460129de024b3bc6e47e7c889ba8f99a 008dffa9460129de024b3bc6e47e7c889ba8f99a wujinfeng <wujinfeng@bbktel.com> 1585059894 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+008dffa9460129de024b3bc6e47e7c889ba8f99a 56921f62b53d5a4b270ed19e039cbea52c39901d wujinfeng <wujinfeng@bbktel.com> 1587691757 +0800	pull --rebase: checkout 56921f62b53d5a4b270ed19e039cbea52c39901d
+56921f62b53d5a4b270ed19e039cbea52c39901d 56921f62b53d5a4b270ed19e039cbea52c39901d wujinfeng <wujinfeng@bbktel.com> 1587691758 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+56921f62b53d5a4b270ed19e039cbea52c39901d e52470d1d951340c341bd9a6f231b663a9bdde0f wujinfeng <wujinfeng@bbktel.com> 1588860408 +0800	pull --rebase: checkout e52470d1d951340c341bd9a6f231b663a9bdde0f
+e52470d1d951340c341bd9a6f231b663a9bdde0f e52470d1d951340c341bd9a6f231b663a9bdde0f wujinfeng <wujinfeng@bbktel.com> 1588860408 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+e52470d1d951340c341bd9a6f231b663a9bdde0f 8026647de7da9a12ea7fe72cdff880c8b56c5975 wujinfeng <wujinfeng@bbktel.com> 1588910782 +0800	commit: fix video album and change-source conflict issue
+8026647de7da9a12ea7fe72cdff880c8b56c5975 02ea479d5417b5394985ca0266cfd544b4f30beb wujinfeng <wujinfeng@bbktel.com> 1589005917 +0800	commit: 【Bug Fix】: 【安全漏洞】Security:WebRTC:out-of-boundswritewhenupdatinglayerinfowithframemarkingextension
+02ea479d5417b5394985ca0266cfd544b4f30beb 070bd673c2641cdf37e361b2553e3b7500086393 wujinfeng <wujinfeng@bbktel.com> 1589009332 +0800	commit (amend): 【Bug Fix】: 【安全漏洞】Security:WebRTC:out-of-boundswritewhenupdatinglayerinfowithframemarkingextension
+070bd673c2641cdf37e361b2553e3b7500086393 e52470d1d951340c341bd9a6f231b663a9bdde0f wujinfeng <wujinfeng@bbktel.com> 1589010198 +0800	reset: moving to e52470d1d951340c341bd9a6f231b663a9bdde0f
+e52470d1d951340c341bd9a6f231b663a9bdde0f 4fa614ae539e9fd76724ef15e5c8bf52ee03583c wujinfeng <wujinfeng@bbktel.com> 1589010242 +0800	am: fix video album and change-source conflict issue
+4fa614ae539e9fd76724ef15e5c8bf52ee03583c e52470d1d951340c341bd9a6f231b663a9bdde0f wujinfeng <wujinfeng@bbktel.com> 1589165166 +0800	reset: moving to e52470d1d951340c341bd9a6f231b663a9bdde0f
+e52470d1d951340c341bd9a6f231b663a9bdde0f 797203532562d3454b649f554f9ffc74a4d67b98 wujinfeng <wujinfeng@bbktel.com> 1589165172 +0800	am: 【Bug Fix】: 【安全漏洞】Security:WebRTC:out-of-boundswritewhenupdatinglayerinfowithframemarkingextension
+797203532562d3454b649f554f9ffc74a4d67b98 504d0e1d1ee646adf578ddf982de9dda92d267ad wujinfeng <wujinfeng@bbktel.com> 1589165190 +0800	pull --rebase: checkout 504d0e1d1ee646adf578ddf982de9dda92d267ad
+504d0e1d1ee646adf578ddf982de9dda92d267ad 10ca5daf2d901f62ce27f2fc5c9892d8821f0561 wujinfeng <wujinfeng@bbktel.com> 1589165190 +0800	pull --rebase: 【Bug Fix】: 【安全漏洞】Security:WebRTC:out-of-boundswritewhenupdatinglayerinfowithframemarkingextension
+10ca5daf2d901f62ce27f2fc5c9892d8821f0561 10ca5daf2d901f62ce27f2fc5c9892d8821f0561 wujinfeng <wujinfeng@bbktel.com> 1589165192 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+10ca5daf2d901f62ce27f2fc5c9892d8821f0561 ad7b31e04d0339b7df3040ef066fa3ecf86bfb98 wujinfeng <wujinfeng@bbktel.com> 1589165684 +0800	commit: 【Bug Fix】: 【安全漏洞】Security:DataraceinAudioArray::AllocatecanleadtoOOBaccess
+ad7b31e04d0339b7df3040ef066fa3ecf86bfb98 381c4db492cc28480d72ab6a491dec79467f72cc wujinfeng <wujinfeng@bbktel.com> 1590130710 +0800	commit: 【Bug Fix】: 【安全漏洞】Issue1048005:rtp_frame_reference_finder_fuzzer:Badparametersto--sanitizer-annotate-contiguous-containerinwebrtc::video_coding::RtpFrameObject::~RtpFrameObject
+381c4db492cc28480d72ab6a491dec79467f72cc ad7b31e04d0339b7df3040ef066fa3ecf86bfb98 wujinfeng <wujinfeng@bbktel.com> 1590132125 +0800	reset: moving to ad7b31e04d0339b7df3040ef066fa3ecf86bfb98
+ad7b31e04d0339b7df3040ef066fa3ecf86bfb98 eecdbdabbcab8ad30b7f275b28453423f65780c6 wujinfeng <wujinfeng@bbktel.com> 1590132140 +0800	pull --rebase: checkout eecdbdabbcab8ad30b7f275b28453423f65780c6
+eecdbdabbcab8ad30b7f275b28453423f65780c6 eecdbdabbcab8ad30b7f275b28453423f65780c6 wujinfeng <wujinfeng@bbktel.com> 1590132141 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+eecdbdabbcab8ad30b7f275b28453423f65780c6 5cdda0b2acc4845e2826f3947ed5e005bb8e7abe wujinfeng <wujinfeng@bbktel.com> 1590206563 +0800	pull --rebase: checkout 5cdda0b2acc4845e2826f3947ed5e005bb8e7abe
+5cdda0b2acc4845e2826f3947ed5e005bb8e7abe 5cdda0b2acc4845e2826f3947ed5e005bb8e7abe wujinfeng <wujinfeng@bbktel.com> 1590206563 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+5cdda0b2acc4845e2826f3947ed5e005bb8e7abe b600580e4736e9ee70e0407e09dde156e6ae4ca1 wujinfeng <wujinfeng@bbktel.com> 1590376264 +0800	pull --rebase: checkout b600580e4736e9ee70e0407e09dde156e6ae4ca1
+b600580e4736e9ee70e0407e09dde156e6ae4ca1 b600580e4736e9ee70e0407e09dde156e6ae4ca1 wujinfeng <wujinfeng@bbktel.com> 1590376264 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+b600580e4736e9ee70e0407e09dde156e6ae4ca1 b47457b0fbbad24f71fc4208a596079a35b87f32 wujinfeng <wujinfeng@bbktel.com> 1590464915 +0800	pull --rebase: checkout b47457b0fbbad24f71fc4208a596079a35b87f32
+b47457b0fbbad24f71fc4208a596079a35b87f32 b47457b0fbbad24f71fc4208a596079a35b87f32 wujinfeng <wujinfeng@bbktel.com> 1590464916 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk
+b47457b0fbbad24f71fc4208a596079a35b87f32 1cce79200210a12c74464777edfe902f15f45cee wujinfeng <wujinfeng@bbktel.com> 1590472692 +0800	pull --rebase: checkout 1cce79200210a12c74464777edfe902f15f45cee
+1cce79200210a12c74464777edfe902f15f45cee 1cce79200210a12c74464777edfe902f15f45cee wujinfeng <wujinfeng@bbktel.com> 1590472692 +0800	rebase finished: returning to refs/heads/vivo_webview_trunk

@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 fe5b5e8c5a97a7ae95239b80c0b4ffff075d570c wujinfeng <wujinfeng@bbktel.com> 1583192355 +0800	branch: Created from origin/vivo_webview_release_2.26.0
+fe5b5e8c5a97a7ae95239b80c0b4ffff075d570c 1905d33d98eca7dd4b980e3c66ae2876eeeb54c6 wujinfeng <wujinfeng@bbktel.com> 1583195983 +0800	commit (cherry-pick): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+1905d33d98eca7dd4b980e3c66ae2876eeeb54c6 66e6d50da263199cd6848380476ed4d7091a1836 wujinfeng <wujinfeng@bbktel.com> 1584427757 +0800	rebase finished: refs/heads/vivo_webview_release_2.26.0 onto 66e6d50da263199cd6848380476ed4d7091a1836
+66e6d50da263199cd6848380476ed4d7091a1836 943794259c9522facb0ad5148047e6a4799a32c0 wujinfeng <wujinfeng@bbktel.com> 1584427909 +0800	am: add logs to VivoAppEntryTopView class

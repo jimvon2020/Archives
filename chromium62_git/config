@@ -1,0 +1,133 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	autocrlf = false
+[remote "origin"]
+	url = ssh://wujinfeng@smartgit:29418/VivoCode/android_packages_apps_Browser_chromium62
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "vivo_webview_2.0"]
+	remote = origin
+	merge = refs/heads/vivo_webview_2.0
+[rietveld]
+	cc = chromium-reviews@chromium.org
+	tree-status-url = http://chromium-status.appspot.com/status
+	viewvc-url = https://chromium.googlesource.com/chromium/src/+/
+	cpplint-ignore-regex = webkit/api/.*
+	project = chromium
+	run-post-upload-hook = True
+	server = https://codereview.chromium.org
+[gerrit]
+	host = True
+[branch "vivo_webview_2.0_video"]
+	remote = origin
+	merge = refs/heads/vivo_webview_2.0_video
+[branch "vivo_webview_2.0_multi_dex"]
+	remote = origin
+	merge = refs/heads/vivo_webview_2.0_multi_dex
+[branch "vivo_webview_2.0_sdk"]
+	remote = origin
+	merge = refs/heads/vivo_webview_2.0_sdk
+[branch "vivo_webview_2.1.1"]
+	remote = origin
+	merge = refs/heads/vivo_webview_2.1.1
+[branch "vivo_webview_2.2"]
+	remote = origin
+	merge = refs/heads/vivo_webview_2.2
+[branch "vivo_webview_2.3"]
+	remote = origin
+	merge = refs/heads/vivo_webview_2.3
+[branch "vivo_webview_2.3_sdk"]
+	remote = origin
+	merge = refs/heads/vivo_webview_2.3_sdk
+[branch "vivo_webview_2.4"]
+	remote = origin
+	merge = refs/heads/vivo_webview_2.4
+[branch "vivo_webview_feature_video_preload_optimization_for_mobile_network"]
+	remote = origin
+	merge = refs/heads/vivo_webview_feature_video_preload_optimization_for_mobile_network
+[branch "vivo_webview_release_2.6.0"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.6.0
+[branch "vivo_webview_release_2.5.0"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.5.0
+[branch "vivo_webview_feature_video_app_guide_flow"]
+	remote = origin
+	merge = refs/heads/vivo_webview_feature_video_app_guide_flow
+[branch "vivo_webview_release_2.2.2"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.2.2
+[branch "vivo_webview_release_2.2.3"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.2.3
+[branch "vivo_webview_release_2.6.1"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.6.1
+[branch "vivo_webview_release_2.6.2"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.6.2
+[branch "vivo_webview_release_2.8.0"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.8.0
+[branch "vivo_webview_release_2.8.1"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.8.1
+[branch "vivo_webview_release_2.9.0_beta"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.9.0_beta
+[branch "vivo_webview_release_2.6.2_ex_test"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.6.2_ex_test
+[branch "vivo_webview_release_2.14.0"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.14.0
+[branch "vivo_webview_release_2.14.1"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.14.1
+[branch "vivo_webview_feature_video_albums"]
+	remote = origin
+	merge = refs/heads/vivo_webview_feature_video_albums
+[branch "vivo_webview_feature_webrtc_function"]
+	remote = origin
+	merge = refs/heads/vivo_webview_feature_webrtc_function
+[branch "vivo_webview_release_2.15.1"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.15.1
+[branch "vivo_webview_feature_videoalbums"]
+	remote = origin
+	merge = refs/heads/vivo_webview_feature_videoalbums
+[branch "vivo_webview_release_2.15.2"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.15.2
+[branch "vivo_webview_apk_release_1.0.0.0"]
+	remote = origin
+	merge = refs/heads/vivo_webview_apk_release_1.0.0.0
+[branch "vivo_webview_release_2.22.0"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.22.0
+[branch "vivo_webview_feature_online_settings"]
+	remote = origin
+	merge = refs/heads/vivo_webview_feature_online_settings
+[branch "vivo_webview_release_2.6.5"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.6.5
+[branch "vivo_webview_trunk"]
+	remote = origin
+	merge = refs/heads/vivo_webview_trunk
+[branch "vivo_webview_release_2.23.1"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.23.1
+[branch "vivo_webview_release_2.24.0"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.24.0
+[branch "vivo_webview_release_2.25.0"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.25.0
+[branch "vivo_webview_release_2.26.0"]
+	remote = origin
+	merge = refs/heads/vivo_webview_release_2.26.0

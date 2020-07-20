@@ -1,0 +1,28 @@
+【Bug Fix】: B181025-333解决断点续播超过1000条记录崩溃的问题
+
+【修改原因】: 内存中断点续播记录超过1000后会删除ArrayList中前面的记录，调用iterator.remove()时，没有先调用iterator.next()导致崩溃
+【解决方法】: 在调用iterator.remove()前，先调用一下iterator.next()
+【影响模块】: media模块
+【测试建议】: 测试断点续播功能，测试存储一千条记录后，断点续播功能是否正常，是否有崩溃。
+【其他】: 无
+
+Change-Id: Ia463ff451fe27f41e4746bafc334f35734f795c5
+
+# 请为您的变更输入提交说明。以 '#' 开始的行将被忽略，而一个空的提交
+# 说明将会终止提交。
+#
+# 日期：  Thu Oct 25 12:57:27 2018 +0800
+#
+# 位于分支 vivo_webview_trunk
+# 您的分支领先 'origin/vivo_webview_trunk' 共 1 个提交。
+#   （使用 "git push" 来发布您的本地提交）
+#
+# 要提交的变更：
+#	修改：     src/vivo/java/media/src/org/chromium/media/VivoMediaPlayerAssistant.java
+#
+# 未跟踪的文件:
+#	0001-Feature.patch
+#	0001-fix-video-abnormal-firstFrameTime-problem.patch
+#	0002-video-first-frame-optimization.patch
+#	java_v5_core/v5_sdk/
+#

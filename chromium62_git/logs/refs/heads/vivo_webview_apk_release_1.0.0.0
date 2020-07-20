@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 b9014e06d844d65912cec889e623a58f79ac2059 wujinfeng <wujinfeng@bbktel.com> 1567045851 +0800	branch: Created from origin/vivo_webview_apk_release_1.0.0.0
+b9014e06d844d65912cec889e623a58f79ac2059 dc2578e8200194eecfc266509cc973de411554be wujinfeng <wujinfeng@bbktel.com> 1567067232 +0800	pull: Fast-forward
+b28007aca0042a6dc16c13fb6929b0aa18caf59b 45fc222e987591a1e62915ae72b3ca82e3108490 wujinfeng <wujinfeng@bbktel.com> 1568967573 +0800	commit (amend): 【Bug Fix】: PD123456:[VR190802-083]:把video元素全屏按钮状态同步到定制视频界面,并且部分解决视频全屏接口应用不实现的问题
+45fc222e987591a1e62915ae72b3ca82e3108490 e0f5b9fd9992f5b6b723c620864c9523c5085dda wujinfeng <wujinfeng@bbktel.com> 1568968116 +0800	commit (amend): 【Bug Fix】: PD123456:[VR190802-083]:把video元素全屏按钮状态同步到定制视频界面,并且部分解决视频全屏接口应用不实现的问题

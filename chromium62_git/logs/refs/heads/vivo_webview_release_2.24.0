@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 2742f6866f3978e216fc43ba3a7bd9b5288ccc93 wujinfeng <wujinfeng@bbktel.com> 1582036145 +0800	branch: Created from origin/vivo_webview_release_2.24.0
+2742f6866f3978e216fc43ba3a7bd9b5288ccc93 6ac9d860c842b99bd25ba962e2ac35ef0b2462da wujinfeng <wujinfeng@bbktel.com> 1582036341 +0800	cherry-pick: 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+6ac9d860c842b99bd25ba962e2ac35ef0b2462da 2742f6866f3978e216fc43ba3a7bd9b5288ccc93 wujinfeng <wujinfeng@bbktel.com> 1582107859 +0800	reset: moving to 2742f6866f3978e216fc43ba3a7bd9b5288ccc93
+2742f6866f3978e216fc43ba3a7bd9b5288ccc93 03874d4779ea5effac60c8336b503c94e3605a92 wujinfeng <wujinfeng@bbktel.com> 1582107871 +0800	rebase finished: refs/heads/vivo_webview_release_2.24.0 onto 03874d4779ea5effac60c8336b503c94e3605a92
+03874d4779ea5effac60c8336b503c94e3605a92 dbe8806d0be6d3027cd43bbe240f4d46ff1386f1 wujinfeng <wujinfeng@bbktel.com> 1582107955 +0800	cherry-pick: 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+dbe8806d0be6d3027cd43bbe240f4d46ff1386f1 36a612530e28d091fe94b9952427678639e1a74d wujinfeng <wujinfeng@bbktel.com> 1582107968 +0800	commit (amend): 【Feature】: PD2000:[VR191225-050]实现网页视频选集后贴片广告功能
+36a612530e28d091fe94b9952427678639e1a74d f67ec5d498629b1163da4f1ed4fa86e7864a2c92 wujinfeng <wujinfeng@bbktel.com> 1582109995 +0800	rebase finished: refs/heads/vivo_webview_release_2.24.0 onto c57cb68e90a27934b335d0e1c704f8eb97d4a988

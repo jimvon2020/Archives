@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 e44a5b9eb4090bd4c805cc40906ba52040cbd5b5 wujinfeng <wujinfeng@bbktel.com> 1574654336 +0800	branch: Created from origin/vivo_webview_feature_online_settings
+e44a5b9eb4090bd4c805cc40906ba52040cbd5b5 ea0ddbad7a5846da332bcfaa6369e1ba626e0d38 wujinfeng <wujinfeng@bbktel.com> 1574680245 +0800	commit: 【Bug Fix】: 修正GlobalSettings视频相关逻辑
+ea0ddbad7a5846da332bcfaa6369e1ba626e0d38 c5441abec21ac3c7a8e96124686eb5e8bb536b07 wujinfeng <wujinfeng@bbktel.com> 1574680357 +0800	commit (amend): 【Bug Fix】: 修正GlobalSettings视频相关逻辑
+c5441abec21ac3c7a8e96124686eb5e8bb536b07 89a190e045f344a8611e20f666a91fc3ffe87dbc wujinfeng <wujinfeng@bbktel.com> 1574680411 +0800	commit (amend): 【Bug Fix】: 修正GlobalSettings视频相关逻辑
+89a190e045f344a8611e20f666a91fc3ffe87dbc 86b455b868ca8876e70081c0c6f6bfe1c73a65db wujinfeng <wujinfeng@bbktel.com> 1574909276 +0800	commit: 【Bug Fix】: 把选集的配置下发逻辑进一步集中到WebMediaConfigManager中统一管理，简化类的结构，消除冗余逻辑
+86b455b868ca8876e70081c0c6f6bfe1c73a65db 6d082df3315691418c1d413ae59b2fcea1021d2b wujinfeng <wujinfeng@bbktel.com> 1574909816 +0800	rebase finished: refs/heads/vivo_webview_feature_online_settings onto 68ca4b5ca3b2460fc464596fa8d8b27e022fce6f
+6d082df3315691418c1d413ae59b2fcea1021d2b 137ebf8bfbc0ecf647db9df20fafe2ac7f592640 wujinfeng <wujinfeng@bbktel.com> 1575339356 +0800	rebase finished: refs/heads/vivo_webview_feature_online_settings onto 137ebf8bfbc0ecf647db9df20fafe2ac7f592640
